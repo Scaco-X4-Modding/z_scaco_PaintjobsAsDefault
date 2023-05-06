@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content id="z_scaco_PaintjobsAsDefault" author="Scaco"
+<content
+	id="z_scaco_PaintjobsAsDefault"
+	author="Scaco"
 	name="z_scaco_PaintjobsAsDefault"
 	description="Strangi's PaintJobAsDefault als Grundlage verwendet und dann die Paintjobs von Freeqs und Axes hinzugefügt"
-	version="001" date="2023-04-26" save="false" enabled="1">
+	version="001"
+	date="2023-04-26"
+	save="false"
+	enabled="1">
 </content>
