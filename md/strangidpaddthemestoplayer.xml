@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mdscript name="strangi_dp_addthemestoplayerif">
-    <cues>
-        <cue name="strangi_dp_addthemesonload" version="1">
-            <conditions>
-                <check_any>
-                    <event_game_started />
-                    <event_game_loaded />
-                </check_any>
-            </conditions>
-            <delay exact="5s" />
-            <actions>
-                <set_value name="$paintmods_dp" exact="[
+	<cues>
+		<cue name="strangi_dp_addthemesonload" version="1">
+			<conditions>
+				<check_any>
+					<event_game_started />
+					<event_game_loaded />
+				</check_any>
+			</conditions>
+			<delay exact="5s" />
+			<actions>
+				<set_value name="$paintmods_dp"
+					exact="[
 								
 								ware.axesred,
 								ware.axesemerald,
@@ -315,11 +316,11 @@
 								
 								
 								
-					]" 
+					]"
 				/>
-                <add_blueprints wares="$paintmods_dp" />
-                <remove_value name="$paintmods_dp" />
-            </actions>       
-        </cue>
-    </cues>
+				<add_blueprints wares="$paintmods_dp" />
+				<remove_value name="$paintmods_dp" />
+			</actions>
+		</cue>
+	</cues>
 </mdscript>

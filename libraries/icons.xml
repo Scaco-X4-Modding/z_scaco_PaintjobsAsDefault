@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?> 
-<diff> 
+<?xml version="1.0" encoding="utf-8"?>
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<add sel="/icons">
-    <icon name="*" texture="extensions\Z_FreeqsPaintjobs\assets\fx\gui\textures\paintmods\*" height="256" width="256"></icon>
-  </add>
+		<icon name="*"
+			texture="extensions\Z_FreeqsPaintjobs\assets\fx\gui\textures\paintmods\*"
+			height="256" width="256"></icon>
+	</add>
 </diff>

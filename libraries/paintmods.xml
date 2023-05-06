@@ -1,126 +1,442 @@
-<?xml version="1.0" encoding="utf-8"?> 
-<diff> 
+<?xml version="1.0" encoding="utf-8"?>
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<add pos="prepend" sel="/paintmods">
-    
-	<!-- Axes Mod -->
-	<!-- Common quality paintjobs -->
-	<paint ware="axesred" quality="1" hue="0" brightness="-1.4" saturation="-1" metal="0.8" smooth="0.36" dirt="-0.64" extradirt="-0.68" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesbasewhite" strength="0.51" scale="1" sharpness="100" invert="0" red="241" green="66" blue="66" alpha="255"/>
-	<paint ware="axesemerald" quality="1" hue="123" brightness="-1.4" saturation="-1" metal="0.8" smooth="0.34" dirt="-0.64" extradirt="-0.68" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesbasewhite" strength="0.52" scale="1" sharpness="100" invert="0" red="109" green="201" blue="116" alpha="255"/>
-	<paint ware="axesblue" quality="1" hue="227" brightness="-1.4" saturation="-1" metal="0.8" smooth="0.36" dirt="-0.64" extradirt="-0.68" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesbasewhite" strength="0.51" scale="1" sharpness="100" invert="0" red="56" green="120" blue="226" alpha="255"/>
-	<paint ware="axesmagnum" quality="1" hue="222" brightness="-0.3" saturation="-1" metal="0.9" smooth="0.34" dirt="-0.30" extradirt="-0.15" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axessteel" strength="0.76" scale="7" sharpness="100" invert="0" red="39" green="125" blue="179" alpha="255"/>
-	<paint ware="axeshardware" quality="1" hue="143" brightness="0.3" saturation="-0.98" metal="0.8" smooth="0.2" dirt="0.3" extradirt="0.2" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeshardware" strength="1" scale="8" sharpness="100" invert="0" red="120" green="121" blue="124" alpha="255"/>
-	<paint ware="axessherman" quality="1" hue="143" brightness="0.2" saturation="-0.98" metal="-0.4" smooth="0.10" dirt="0.6" extradirt="0.6" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axessherman" strength="1" scale="4" sharpness="100" invert="0" red="68" green="78" blue="60" alpha="255"/>
-	<paint ware="axesguerilla" quality="1" hue="143" brightness="0.2" saturation="-0.98" metal="0.42" smooth="-0.02" dirt="-0.2" extradirt="0.27" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesguerilla" strength="1" scale="8" sharpness="100" invert="0" red="78" green="88" blue="70" alpha="255"/>
-	<paint ware="axesurban" quality="1" hue="143" brightness="0.4" saturation="-0.98" metal="0.2" smooth="0.32" dirt="0.3" extradirt="0.2" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesurban" strength="1" scale="10" sharpness="100" invert="0" red="60" green="74" blue="94" alpha="255"/>
-	<paint ware="axesmetro" quality="1" hue="143" brightness="0.4" saturation="-0.98" metal="0.2" smooth="0.2" dirt="0.53" extradirt="0.52" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesmetro" strength="1" scale="7" sharpness="100" invert="0" red="118" green="126" blue="150" alpha="255"/>
-	<paint ware="axestimberland" quality="1" hue="143" brightness="1" saturation="-0.98" metal="0.2" smooth="0.2" dirt="0.1" extradirt="-0.18" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axestimberland" strength="1" scale="7" sharpness="100" invert="0" red="72" green="109" blue="91" alpha="255"/>
- 	<paint ware="axesskyline" quality="1" hue="162" brightness="-0.05" saturation="-1" metal="0.5" smooth="0.42" dirt="-0.90" extradirt="-0.72" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesskyline" strength="0.82" scale="10" sharpness="100" invert="0" red="44" green="78" blue="187" alpha="255"/>
- 	<paint ware="axesskyline2" quality="1" hue="162" brightness="-0.05" saturation="-1" metal="0.5" smooth="0.42" dirt="-0.90" extradirt="-0.72" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesskyline2" strength="0.82" scale="10" sharpness="100" invert="0" red="44" green="78" blue="187" alpha="255"/>
+
+		<!-- Axes Mod -->
+		<!-- Common quality paintjobs -->
+		<paint ware="axesred" quality="1" hue="0" brightness="-1.4"
+			saturation="-1" metal="0.8" smooth="0.36" dirt="-0.64"
+			extradirt="-0.68"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesbasewhite"
+			strength="0.51" scale="1" sharpness="100" invert="0" red="241"
+			green="66" blue="66" alpha="255" />
+		<paint ware="axesemerald" quality="1" hue="123" brightness="-1.4"
+			saturation="-1" metal="0.8" smooth="0.34" dirt="-0.64"
+			extradirt="-0.68"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesbasewhite"
+			strength="0.52" scale="1" sharpness="100" invert="0" red="109"
+			green="201" blue="116" alpha="255" />
+		<paint ware="axesblue" quality="1" hue="227" brightness="-1.4"
+			saturation="-1" metal="0.8" smooth="0.36" dirt="-0.64"
+			extradirt="-0.68"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesbasewhite"
+			strength="0.51" scale="1" sharpness="100" invert="0" red="56"
+			green="120" blue="226" alpha="255" />
+		<paint ware="axesmagnum" quality="1" hue="222" brightness="-0.3"
+			saturation="-1" metal="0.9" smooth="0.34" dirt="-0.30"
+			extradirt="-0.15"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axessteel"
+			strength="0.76" scale="7" sharpness="100" invert="0" red="39"
+			green="125" blue="179" alpha="255" />
+		<paint ware="axeshardware" quality="1" hue="143" brightness="0.3"
+			saturation="-0.98" metal="0.8" smooth="0.2" dirt="0.3"
+			extradirt="0.2"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeshardware"
+			strength="1" scale="8" sharpness="100" invert="0" red="120"
+			green="121" blue="124" alpha="255" />
+		<paint ware="axessherman" quality="1" hue="143" brightness="0.2"
+			saturation="-0.98" metal="-0.4" smooth="0.10" dirt="0.6"
+			extradirt="0.6"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axessherman"
+			strength="1" scale="4" sharpness="100" invert="0" red="68"
+			green="78" blue="60" alpha="255" />
+		<paint ware="axesguerilla" quality="1" hue="143" brightness="0.2"
+			saturation="-0.98" metal="0.42" smooth="-0.02" dirt="-0.2"
+			extradirt="0.27"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesguerilla"
+			strength="1" scale="8" sharpness="100" invert="0" red="78"
+			green="88" blue="70" alpha="255" />
+		<paint ware="axesurban" quality="1" hue="143" brightness="0.4"
+			saturation="-0.98" metal="0.2" smooth="0.32" dirt="0.3"
+			extradirt="0.2"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesurban"
+			strength="1" scale="10" sharpness="100" invert="0" red="60"
+			green="74" blue="94" alpha="255" />
+		<paint ware="axesmetro" quality="1" hue="143" brightness="0.4"
+			saturation="-0.98" metal="0.2" smooth="0.2" dirt="0.53"
+			extradirt="0.52"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesmetro"
+			strength="1" scale="7" sharpness="100" invert="0" red="118"
+			green="126" blue="150" alpha="255" />
+		<paint ware="axestimberland" quality="1" hue="143" brightness="1"
+			saturation="-0.98" metal="0.2" smooth="0.2" dirt="0.1"
+			extradirt="-0.18"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axestimberland"
+			strength="1" scale="7" sharpness="100" invert="0" red="72"
+			green="109" blue="91" alpha="255" />
+		<paint ware="axesskyline" quality="1" hue="162" brightness="-0.05"
+			saturation="-1" metal="0.5" smooth="0.42" dirt="-0.90"
+			extradirt="-0.72"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesskyline"
+			strength="0.82" scale="10" sharpness="100" invert="0" red="44"
+			green="78" blue="187" alpha="255" />
+		<paint ware="axesskyline2" quality="1" hue="162" brightness="-0.05"
+			saturation="-1" metal="0.5" smooth="0.42" dirt="-0.90"
+			extradirt="-0.72"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesskyline2"
+			strength="0.82" scale="10" sharpness="100" invert="0" red="44"
+			green="78" blue="187" alpha="255" />
 
 
-	<!-- Rare quality paintjobs -->
-	<paint ware="axeselectric" quality="2" hue="222" brightness="-1" saturation="-1" metal="0.67" smooth="0.38" dirt="0.48" extradirt="0.42" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeselectric" strength="0.69" scale="7" sharpness="100" invert="0" red="56" green="178" blue="255" alpha="255"/>
-	<paint ware="axesumber" quality="2" hue="30" brightness="-1" saturation="-1" metal="0.67" smooth="0.38" dirt="0.48" extradirt="0.42" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeselectric" strength="0.69" scale="12" sharpness="100" invert="0" red="255" green="125" blue="19" alpha="255"/>
-	<paint ware="axespursuit" quality="2" hue="222" brightness="-0.3" saturation="-1" metal="0.8" smooth="0.34" dirt="-0.34" extradirt="-0.16" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axespursuit" strength="0.76" scale="10" sharpness="100" invert="0" red="39" green="125" blue="179" alpha="255"/>
-	<paint ware="axesred2" quality="2" hue="0" brightness="1" saturation="1" metal="0.8" smooth="0.36" dirt="-0.64" extradirt="-0.68" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axescrimson" strength="1" scale="6" sharpness="100" invert="0" red="143" green="143" blue="143" alpha="255"/>
-	<paint ware="axesrevenant" quality="2" hue="143" brightness="-3" saturation="-0.98" metal="-0.8" smooth="0.15" dirt="-0.4" extradirt="-0.26" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axessherman" strength="1" scale="3" sharpness="100" invert="0" red="17" green="15" blue="15" alpha="255"/>
-	<paint ware="axeslabyrinth" quality="2" hue="143" brightness="0.2" saturation="-0.5" metal="-0.2" smooth="0.7" dirt="-0.42" extradirt="-0.81" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeslabyrinth" strength="1" scale="7" sharpness="100" invert="0" red="138" green="74" blue="75" alpha="255"/>
-	<paint ware="axesfarout" quality="2" hue="143" brightness="1" saturation="-0.98" metal="0.3" smooth="0.8" dirt="-0.42" extradirt="-0.52" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesfarout" strength="1" scale="9" sharpness="100" invert="0" red="98" green="96" blue="224" alpha="255"/>
-	<paint ware="axesamoeba" quality="2" hue="143" brightness="-0.8" saturation="-1" metal="0.8" smooth="0.6" dirt="-0.62" extradirt="-0.82" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesamoeba" strength="0.87" scale="6" sharpness="100" invert="0" red="200" green="200" blue="201" alpha="255"/>
-	<paint ware="axesvirginian" quality="2" hue="230" brightness="0.5" saturation="-1" metal="0.3" smooth="0.29" dirt="-0.7" extradirt="-0.8" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesvirginian" strength="1" scale="6" sharpness="100" invert="0" red="143" green="143" blue="143" alpha="255"/>
-	<paint ware="axesvirginian2" quality="2" hue="230" brightness="0.5" saturation="-1" metal="0.3" smooth="0.29" dirt="-0.7" extradirt="-0.8" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesvirginian2" strength="1" scale="12.3" sharpness="100" invert="0" red="143" green="143" blue="143" alpha="255"/>
- 
- 
-	<!-- Very rare quality paintjobs -->
-	<paint ware="axeswraith" quality="3" hue="143" brightness="0.2" saturation="-0.98" metal="-0.4" smooth="0.10" dirt="-0.2" extradirt="-0.2" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeswraith" strength="1" scale="6" sharpness="100" invert="1" red="42" green="42" blue="43" alpha="255"/>
-	<paint ware="axesvelocity" quality="3" hue="143" brightness="1" saturation="-0.5" metal="0.1" smooth="0.9" dirt="-0.4" extradirt="-0.5" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesvelocity" strength="1" scale="7" sharpness="100" invert="0" red="180" green="28" blue="32" alpha="255"/>
-	<paint ware="axesstarbound" quality="3" hue="0" brightness="1" saturation="-1" metal="0.4" smooth="0.2" dirt="-1" extradirt="-1" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesstarbound" strength="1" scale="6" sharpness="100" invert="0" red="10" green="10" blue="10" alpha="255"/>
-	<paint ware="axesexcess" quality="3" hue="46" brightness="-1.4" saturation="-1" metal="1" smooth="0.36" dirt="-0.8" extradirt="-0.8" pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesbasewhite" strength="0.54" scale="1" sharpness="100" invert="0" red="255" green="191" blue="23" alpha="255"/>
+		<!-- Rare quality paintjobs -->
+		<paint ware="axeselectric" quality="2" hue="222" brightness="-1"
+			saturation="-1" metal="0.67" smooth="0.38" dirt="0.48"
+			extradirt="0.42"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeselectric"
+			strength="0.69" scale="7" sharpness="100" invert="0" red="56"
+			green="178" blue="255" alpha="255" />
+		<paint ware="axesumber" quality="2" hue="30" brightness="-1"
+			saturation="-1" metal="0.67" smooth="0.38" dirt="0.48"
+			extradirt="0.42"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeselectric"
+			strength="0.69" scale="12" sharpness="100" invert="0" red="255"
+			green="125" blue="19" alpha="255" />
+		<paint ware="axespursuit" quality="2" hue="222" brightness="-0.3"
+			saturation="-1" metal="0.8" smooth="0.34" dirt="-0.34"
+			extradirt="-0.16"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axespursuit"
+			strength="0.76" scale="10" sharpness="100" invert="0" red="39"
+			green="125" blue="179" alpha="255" />
+		<paint ware="axesred2" quality="2" hue="0" brightness="1" saturation="1"
+			metal="0.8" smooth="0.36" dirt="-0.64" extradirt="-0.68"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axescrimson"
+			strength="1" scale="6" sharpness="100" invert="0" red="143"
+			green="143" blue="143" alpha="255" />
+		<paint ware="axesrevenant" quality="2" hue="143" brightness="-3"
+			saturation="-0.98" metal="-0.8" smooth="0.15" dirt="-0.4"
+			extradirt="-0.26"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axessherman"
+			strength="1" scale="3" sharpness="100" invert="0" red="17"
+			green="15" blue="15" alpha="255" />
+		<paint ware="axeslabyrinth" quality="2" hue="143" brightness="0.2"
+			saturation="-0.5" metal="-0.2" smooth="0.7" dirt="-0.42"
+			extradirt="-0.81"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeslabyrinth"
+			strength="1" scale="7" sharpness="100" invert="0" red="138"
+			green="74" blue="75" alpha="255" />
+		<paint ware="axesfarout" quality="2" hue="143" brightness="1"
+			saturation="-0.98" metal="0.3" smooth="0.8" dirt="-0.42"
+			extradirt="-0.52"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesfarout"
+			strength="1" scale="9" sharpness="100" invert="0" red="98"
+			green="96" blue="224" alpha="255" />
+		<paint ware="axesamoeba" quality="2" hue="143" brightness="-0.8"
+			saturation="-1" metal="0.8" smooth="0.6" dirt="-0.62"
+			extradirt="-0.82"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesamoeba"
+			strength="0.87" scale="6" sharpness="100" invert="0" red="200"
+			green="200" blue="201" alpha="255" />
+		<paint ware="axesvirginian" quality="2" hue="230" brightness="0.5"
+			saturation="-1" metal="0.3" smooth="0.29" dirt="-0.7"
+			extradirt="-0.8"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesvirginian"
+			strength="1" scale="6" sharpness="100" invert="0" red="143"
+			green="143" blue="143" alpha="255" />
+		<paint ware="axesvirginian2" quality="2" hue="230" brightness="0.5"
+			saturation="-1" metal="0.3" smooth="0.29" dirt="-0.7"
+			extradirt="-0.8"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesvirginian2"
+			strength="1" scale="12.3" sharpness="100" invert="0" red="143"
+			green="143" blue="143" alpha="255" />
 
-	
-	
-	
-	
-	
-	
-    <!--RUST PAINTJOB-->
-    
-    <paint ware="frust" quality="1" hue="143" brightness="-0.8" saturation="-0.9" metal="0.4" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\frust" strength="1" scale="10" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
-    <paint ware="frustm" quality="1" hue="143" brightness="-0.8" saturation="-0.9" metal="0.4" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\frust" strength="1" scale="50" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
-    <!--<paint ware="frustxl" quality="1" hue="143" brightness="-0.8" saturation="-0.9" metal="0.4" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\frust" strength="1" scale="250" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>-->
 
-    <!--PULSE PAINTJOB-->
+		<!-- Very rare quality paintjobs -->
+		<paint ware="axeswraith" quality="3" hue="143" brightness="0.2"
+			saturation="-0.98" metal="-0.4" smooth="0.10" dirt="-0.2"
+			extradirt="-0.2"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axeswraith"
+			strength="1" scale="6" sharpness="100" invert="1" red="42"
+			green="42" blue="43" alpha="255" />
+		<paint ware="axesvelocity" quality="3" hue="143" brightness="1"
+			saturation="-0.5" metal="0.1" smooth="0.9" dirt="-0.4"
+			extradirt="-0.5"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesvelocity"
+			strength="1" scale="7" sharpness="100" invert="0" red="180"
+			green="28" blue="32" alpha="255" />
+		<paint ware="axesstarbound" quality="3" hue="0" brightness="1"
+			saturation="-1" metal="0.4" smooth="0.2" dirt="-1" extradirt="-1"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesstarbound"
+			strength="1" scale="6" sharpness="100" invert="0" red="10"
+			green="10" blue="10" alpha="255" />
+		<paint ware="axesexcess" quality="3" hue="46" brightness="-1.4"
+			saturation="-1" metal="1" smooth="0.36" dirt="-0.8" extradirt="-0.8"
+			pattern="extensions\axespaintjobsgalore\assets\textures\patterns\axesbasewhite"
+			strength="0.54" scale="1" sharpness="100" invert="0" red="255"
+			green="191" blue="23" alpha="255" />
 
-    <paint ware="fpulse" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulse" strength="3" scale="10" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
-    <paint ware="fpulsepurple" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsepurple" strength="3" scale="10" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
-    <paint ware="fpulsered" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsered" strength="3" scale="10" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
 
-    <paint ware="fpulsem" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulse" strength="3" scale="50" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
-    <paint ware="fpulseredm" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsered" strength="3" scale="50" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
-    <paint ware="fpulsepurplem" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsepurple" strength="3" scale="50" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
+		<!--RUST PAINTJOB-->
 
-    <!--<paint ware="fpulsexl" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulse" strength="3" scale="250" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
+		<paint ware="frust" quality="1" hue="143" brightness="-0.8"
+			saturation="-0.9" metal="0.4"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\frust"
+			strength="1" scale="10" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+		<paint ware="frustm" quality="1" hue="143" brightness="-0.8"
+			saturation="-0.9" metal="0.4"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\frust"
+			strength="1" scale="50" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+		<!--<paint ware="frustxl" quality="1" hue="143" brightness="-0.8" saturation="-0.9" metal="0.4" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\frust" strength="1" scale="250" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>-->
+
+		<!--PULSE PAINTJOB-->
+
+		<paint ware="fpulse" quality="1" hue="143" brightness="-0.8"
+			saturation="-0.8" metal="0.2"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulse"
+			strength="3" scale="10" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+		<paint ware="fpulsepurple" quality="1" hue="143" brightness="-0.8"
+			saturation="-0.8" metal="0.2"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsepurple"
+			strength="3" scale="10" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+		<paint ware="fpulsered" quality="1" hue="143" brightness="-0.8"
+			saturation="-0.8" metal="0.2"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsered"
+			strength="3" scale="10" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+
+		<paint ware="fpulsem" quality="1" hue="143" brightness="-0.8"
+			saturation="-0.8" metal="0.2"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulse"
+			strength="3" scale="50" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+		<paint ware="fpulseredm" quality="1" hue="143" brightness="-0.8"
+			saturation="-0.8" metal="0.2"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsered"
+			strength="3" scale="50" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+		<paint ware="fpulsepurplem" quality="1" hue="143" brightness="-0.8"
+			saturation="-0.8" metal="0.2"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsepurple"
+			strength="3" scale="50" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+
+		<!--<paint ware="fpulsexl" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulse" strength="3" scale="250" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
     <paint ware="fpulseredxl" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsered" strength="3" scale="250" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
     <paint ware="fpulsepurplexl" quality="1" hue="143" brightness="-0.8" saturation="-0.8" metal="0.2" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fpulsepurple" strength="3" scale="250" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>-->
 
-    <!--MATTE PAINTJOB-->
+		<!--MATTE PAINTJOB-->
 
-    <paint ware="fmatteblack" quality="1" hue="143" brightness="-0.9" saturation="-1" metal="0.2" smooth="-0.7" dirt="0.18" extradirt="-0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.9" scale="10" sharpness="100" invert="0" red="5" green="5" blue="5" alpha="255"/>
-    <paint ware="fmattered" quality="1" hue="143" brightness="-0.8" saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18" extradirt="-0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.9" scale="10" sharpness="100" invert="0" red="255" green="0" blue="0" alpha="255"/>
-    <paint ware="fmatteorange" quality="1" hue="143" brightness="-0.8" saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18" extradirt="-0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.9" scale="10" sharpness="100" invert="0" red="255" green="122" blue="0" alpha="255"/>
-    <paint ware="fmatteyellow" quality="1" hue="143" brightness="-0.8" saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18" extradirt="-0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.9" scale="10" sharpness="100" invert="0" red="255" green="170" blue="0" alpha="255"/>
-    <paint ware="fmattegreen" quality="1" hue="143" brightness="-0.8" saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18" extradirt="-0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.9" scale="10" sharpness="100" invert="0" red="0" green="180" blue="30" alpha="255"/>
-    <paint ware="fmattepurple" quality="1" hue="143" brightness="-0.8" saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18" extradirt="-0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.9" scale="10" sharpness="100" invert="0" red="184" green="0" blue="255" alpha="255"/>
-    <paint ware="fmatteblue" quality="1" hue="143" brightness="-0.8" saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18" extradirt="-0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.9" scale="10" sharpness="100" invert="0" red="0" green="102" blue="255" alpha="255"/>
+		<paint ware="fmatteblack" quality="1" hue="143" brightness="-0.9"
+			saturation="-1" metal="0.2" smooth="-0.7" dirt="0.18"
+			extradirt="-0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.9" scale="10" sharpness="100" invert="0" red="5"
+			green="5" blue="5" alpha="255" />
+		<paint ware="fmattered" quality="1" hue="143" brightness="-0.8"
+			saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18"
+			extradirt="-0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.9" scale="10" sharpness="100" invert="0" red="255"
+			green="0" blue="0" alpha="255" />
+		<paint ware="fmatteorange" quality="1" hue="143" brightness="-0.8"
+			saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18"
+			extradirt="-0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.9" scale="10" sharpness="100" invert="0" red="255"
+			green="122" blue="0" alpha="255" />
+		<paint ware="fmatteyellow" quality="1" hue="143" brightness="-0.8"
+			saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18"
+			extradirt="-0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.9" scale="10" sharpness="100" invert="0" red="255"
+			green="170" blue="0" alpha="255" />
+		<paint ware="fmattegreen" quality="1" hue="143" brightness="-0.8"
+			saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18"
+			extradirt="-0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.9" scale="10" sharpness="100" invert="0" red="0"
+			green="180" blue="30" alpha="255" />
+		<paint ware="fmattepurple" quality="1" hue="143" brightness="-0.8"
+			saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18"
+			extradirt="-0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.9" scale="10" sharpness="100" invert="0" red="184"
+			green="0" blue="255" alpha="255" />
+		<paint ware="fmatteblue" quality="1" hue="143" brightness="-0.8"
+			saturation="0.5" metal="0.2" smooth="-0.7" dirt="0.18"
+			extradirt="-0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.9" scale="10" sharpness="100" invert="0" red="0"
+			green="102" blue="255" alpha="255" />
 
-    <!--DAMAGED MATTE PAINTJOB-->
+		<!--DAMAGED MATTE PAINTJOB-->
 
-    <paint ware="fdamagedmatteblack" quality="1" hue="0" brightness="-0.7" saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged" strength="0.9" scale="20" sharpness="100" invert="0" red="5" green="5" blue="5" alpha="255"/>
-    <paint ware="fdamagedmattered" quality="1" hue="0" brightness="-0.7" saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged" strength="0.9" scale="20" sharpness="100" invert="0" red="255" green="0" blue="0" alpha="255"/>
-    <paint ware="fdamagedmatteorange" quality="1" hue="0" brightness="-0.7" saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged" strength="0.9" scale="20" sharpness="100" invert="0" red="255" green="122" blue="0" alpha="255"/>
-    <paint ware="fdamagedmatteyellow" quality="1" hue="0" brightness="-0.7" saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged" strength="0.9" scale="20" sharpness="100" invert="0" red="255" green="170" blue="0" alpha="255"/>
-    <paint ware="fdamagedmattegreen" quality="1" hue="0" brightness="-0.7" saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged" strength="0.9" scale="20" sharpness="100" invert="0" red="0" green="180" blue="30" alpha="255"/>
-    <paint ware="fdamagedmattepurple" quality="1" hue="0" brightness="-0.7" saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged" strength="0.9" scale="20" sharpness="100" invert="0" red="184" green="0" blue="255" alpha="255"/>
-    <paint ware="fdamagedmatteblue" quality="1" hue="0" brightness="-0.7" saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged" strength="0.9" scale="20" sharpness="100" invert="0" red="0" green="102" blue="255" alpha="255"/>
+		<paint ware="fdamagedmatteblack" quality="1" hue="0" brightness="-0.7"
+			saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged"
+			strength="0.9" scale="20" sharpness="100" invert="0" red="5"
+			green="5" blue="5" alpha="255" />
+		<paint ware="fdamagedmattered" quality="1" hue="0" brightness="-0.7"
+			saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged"
+			strength="0.9" scale="20" sharpness="100" invert="0" red="255"
+			green="0" blue="0" alpha="255" />
+		<paint ware="fdamagedmatteorange" quality="1" hue="0" brightness="-0.7"
+			saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged"
+			strength="0.9" scale="20" sharpness="100" invert="0" red="255"
+			green="122" blue="0" alpha="255" />
+		<paint ware="fdamagedmatteyellow" quality="1" hue="0" brightness="-0.7"
+			saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged"
+			strength="0.9" scale="20" sharpness="100" invert="0" red="255"
+			green="170" blue="0" alpha="255" />
+		<paint ware="fdamagedmattegreen" quality="1" hue="0" brightness="-0.7"
+			saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged"
+			strength="0.9" scale="20" sharpness="100" invert="0" red="0"
+			green="180" blue="30" alpha="255" />
+		<paint ware="fdamagedmattepurple" quality="1" hue="0" brightness="-0.7"
+			saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged"
+			strength="0.9" scale="20" sharpness="100" invert="0" red="184"
+			green="0" blue="255" alpha="255" />
+		<paint ware="fdamagedmatteblue" quality="1" hue="0" brightness="-0.7"
+			saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fdamaged"
+			strength="0.9" scale="20" sharpness="100" invert="0" red="0"
+			green="102" blue="255" alpha="255" />
 
 
-    <!--METALLIC PAINTJOB-->
+		<!--METALLIC PAINTJOB-->
 
-    <paint ware="fmetallicblack" quality="1" hue="0" brightness="-0.9" saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.5" scale="10" sharpness="100" invert="0" red="5" green="5" blue="5" alpha="255"/>
-    <paint ware="fmetallicred" quality="1" hue="0" brightness="-0.9" saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.5" scale="10" sharpness="100" invert="0" red="255" green="0" blue="0" alpha="255"/>
-    <paint ware="fmetallicyellow" quality="1" hue="22" brightness="-0.9" saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.5" scale="10" sharpness="100" invert="0" red="255" green="170" blue="0" alpha="255"/>
-    <paint ware="fmetallicgreen" quality="1" hue="129" brightness="-0.9" saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.5" scale="10" sharpness="100" invert="0" red="0" green="180" blue="30" alpha="255"/>
-    <paint ware="fmetallicpurple" quality="1" hue="129" brightness="-0.9" saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.5" scale="10" sharpness="100" invert="0" red="184" green="0" blue="255" alpha="255"/>
-    <paint ware="fmetallicwhite" quality="1" hue="0" brightness="0.9" saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.5" scale="10" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
-    <paint ware="fmetallicblue" quality="1" hue="125" brightness="-0.9" saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte" strength="0.5" scale="10" sharpness="100" invert="0" red="0" green="102" blue="255" alpha="255"/>
+		<paint ware="fmetallicblack" quality="1" hue="0" brightness="-0.9"
+			saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.5" scale="10" sharpness="100" invert="0" red="5"
+			green="5" blue="5" alpha="255" />
+		<paint ware="fmetallicred" quality="1" hue="0" brightness="-0.9"
+			saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.5" scale="10" sharpness="100" invert="0" red="255"
+			green="0" blue="0" alpha="255" />
+		<paint ware="fmetallicyellow" quality="1" hue="22" brightness="-0.9"
+			saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.5" scale="10" sharpness="100" invert="0" red="255"
+			green="170" blue="0" alpha="255" />
+		<paint ware="fmetallicgreen" quality="1" hue="129" brightness="-0.9"
+			saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.5" scale="10" sharpness="100" invert="0" red="0"
+			green="180" blue="30" alpha="255" />
+		<paint ware="fmetallicpurple" quality="1" hue="129" brightness="-0.9"
+			saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.5" scale="10" sharpness="100" invert="0" red="184"
+			green="0" blue="255" alpha="255" />
+		<paint ware="fmetallicwhite" quality="1" hue="0" brightness="0.9"
+			saturation="-1" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.5" scale="10" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+		<paint ware="fmetallicblue" quality="1" hue="125" brightness="-0.9"
+			saturation="-0.5" metal="1" smooth="0.2" dirt="0.5" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fmatte"
+			strength="0.5" scale="10" sharpness="100" invert="0" red="0"
+			green="102" blue="255" alpha="255" />
 
 
-    <!--STRIPES PAINTJOB-->
+		<!--STRIPES PAINTJOB-->
 
-    <paint ware="fstripeswhiteredtint" quality="1" hue="0" brightness="0.9" saturation="-0.2" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01"/>
-    <paint ware="fstripeswhitered" quality="1" hue="143" brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes" strength="0.9" scale="15" sharpness="100" invert="0" red="255" green="0" blue="0" alpha="255"/>
-    <paint ware="fstripeswhiteredm" quality="1" hue="143" brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.5" dirt="0.18" extradirt="0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes" strength="0.9" scale="40" sharpness="100" invert="0" red="255" green="0" blue="0" alpha="255"/>
-    <paint ware="fstripeswhiteredxl" quality="1" hue="143" brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.5" dirt="0.18" extradirt="0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes" strength="0.9" scale="80" sharpness="100" invert="0" red="255" green="0" blue="0" alpha="255"/>
+		<paint ware="fstripeswhiteredtint" quality="1" hue="0" brightness="0.9"
+			saturation="-0.2" metal="-0.6" smooth="-0.4" dirt="0.18"
+			extradirt="0.01" />
+		<paint ware="fstripeswhitered" quality="1" hue="143" brightness="0.9"
+			saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18"
+			extradirt="0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes"
+			strength="0.9" scale="15" sharpness="100" invert="0" red="255"
+			green="0" blue="0" alpha="255" />
+		<paint ware="fstripeswhiteredm" quality="1" hue="143" brightness="0.9"
+			saturation="-1" metal="-0.6" smooth="-0.5" dirt="0.18"
+			extradirt="0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes"
+			strength="0.9" scale="40" sharpness="100" invert="0" red="255"
+			green="0" blue="0" alpha="255" />
+		<paint ware="fstripeswhiteredxl" quality="1" hue="143" brightness="0.9"
+			saturation="-1" metal="-0.6" smooth="-0.5" dirt="0.18"
+			extradirt="0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes"
+			strength="0.9" scale="80" sharpness="100" invert="0" red="255"
+			green="0" blue="0" alpha="255" />
 
-    <paint ware="fstripeswhitebluetint" quality="1" hue="125" brightness="0.9" saturation="-0.4" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01"/>
-    <paint ware="fstripeswhiteblue" quality="1" hue="143" brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes" strength="0.9" scale="15" sharpness="100" invert="0" red="0" green="102" blue="255" alpha="255"/>
-    <paint ware="fstripeswhitebluem" quality="1" hue="143" brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes" strength="0.9" scale="40" sharpness="100" invert="0" red="0" green="102" blue="255" alpha="255"/>
-    <paint ware="fstripeswhitebluexl" quality="1" hue="143" brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes" strength="0.9" scale="80" sharpness="100" invert="0" red="0" green="102" blue="255" alpha="255"/>
+		<paint ware="fstripeswhitebluetint" quality="1" hue="125"
+			brightness="0.9" saturation="-0.4" metal="-0.6" smooth="-0.4"
+			dirt="0.18" extradirt="0.01" />
+		<paint ware="fstripeswhiteblue" quality="1" hue="143" brightness="0.9"
+			saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18"
+			extradirt="0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes"
+			strength="0.9" scale="15" sharpness="100" invert="0" red="0"
+			green="102" blue="255" alpha="255" />
+		<paint ware="fstripeswhitebluem" quality="1" hue="143" brightness="0.9"
+			saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18"
+			extradirt="0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes"
+			strength="0.9" scale="40" sharpness="100" invert="0" red="0"
+			green="102" blue="255" alpha="255" />
+		<paint ware="fstripeswhitebluexl" quality="1" hue="143" brightness="0.9"
+			saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18"
+			extradirt="0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes"
+			strength="0.9" scale="80" sharpness="100" invert="0" red="0"
+			green="102" blue="255" alpha="255" />
 
-    <paint ware="fstripeswhiteyellowtint" quality="1" hue="309" brightness="0.9" saturation="-0.5" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01"/>
-    <paint ware="fstripeswhiteyellow" quality="1" hue="143" brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes" strength="0.9" scale="15" sharpness="100" invert="0" red="255" green="228" blue="0" alpha="255"/>
-    <paint ware="fstripeswhiteyellowm" quality="1" hue="143" brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes" strength="0.9" scale="40" sharpness="100" invert="0" red="255" green="228" blue="0" alpha="255"/>
-    <paint ware="fstripeswhiteyellowxl" quality="1" hue="143" brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18" extradirt="0.01" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes" strength="0.9" scale="80" sharpness="100" invert="0" red="255" green="228" blue="0" alpha="255"/>
+		<paint ware="fstripeswhiteyellowtint" quality="1" hue="309"
+			brightness="0.9" saturation="-0.5" metal="-0.6" smooth="-0.4"
+			dirt="0.18" extradirt="0.01" />
+		<paint ware="fstripeswhiteyellow" quality="1" hue="143" brightness="0.9"
+			saturation="-1" metal="-0.6" smooth="-0.4" dirt="0.18"
+			extradirt="0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes"
+			strength="0.9" scale="15" sharpness="100" invert="0" red="255"
+			green="228" blue="0" alpha="255" />
+		<paint ware="fstripeswhiteyellowm" quality="1" hue="143"
+			brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.4"
+			dirt="0.18" extradirt="0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes"
+			strength="0.9" scale="40" sharpness="100" invert="0" red="255"
+			green="228" blue="0" alpha="255" />
+		<paint ware="fstripeswhiteyellowxl" quality="1" hue="143"
+			brightness="0.9" saturation="-1" metal="-0.6" smooth="-0.4"
+			dirt="0.18" extradirt="0.01"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fstripes"
+			strength="0.9" scale="80" sharpness="100" invert="0" red="255"
+			green="228" blue="0" alpha="255" />
 
-    <!--WIREFRAME PAINTJOB-->
-    <paint ware="fwireframeyellow" quality="1" hue="0" brightness="-0.9" saturation="-1" metal="0.5" smooth="0.2" dirt="0.1" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fwireframe" strength="0.9" scale="52" sharpness="100" invert="0" red="255" green="170" blue="0" alpha="255"/>
-    <paint ware="fwireframeyellowm" quality="1" hue="0" brightness="-0.9" saturation="-1" metal="0.5" smooth="0.2" dirt="0.1" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fwireframe" strength="0.9" scale="80" sharpness="100" invert="0" red="255" green="170" blue="0" alpha="255"/>
+		<!--WIREFRAME PAINTJOB-->
+		<paint ware="fwireframeyellow" quality="1" hue="0" brightness="-0.9"
+			saturation="-1" metal="0.5" smooth="0.2" dirt="0.1" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fwireframe"
+			strength="0.9" scale="52" sharpness="100" invert="0" red="255"
+			green="170" blue="0" alpha="255" />
+		<paint ware="fwireframeyellowm" quality="1" hue="0" brightness="-0.9"
+			saturation="-1" metal="0.5" smooth="0.2" dirt="0.1" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fwireframe"
+			strength="0.9" scale="80" sharpness="100" invert="0" red="255"
+			green="170" blue="0" alpha="255" />
 
-    <paint ware="fwireframewhite" quality="1" hue="0" brightness="-0.9" saturation="-1" metal="0.5" smooth="0.2" dirt="0.1" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fwireframe" strength="0.9" scale="52" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
-    <paint ware="fwireframewhitem" quality="1" hue="0" brightness="-0.9" saturation="-1" metal="0.5" smooth="0.2" dirt="0.1" extradirt="0.1" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fwireframe" strength="0.9" scale="80" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
+		<paint ware="fwireframewhite" quality="1" hue="0" brightness="-0.9"
+			saturation="-1" metal="0.5" smooth="0.2" dirt="0.1" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fwireframe"
+			strength="0.9" scale="52" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+		<paint ware="fwireframewhitem" quality="1" hue="0" brightness="-0.9"
+			saturation="-1" metal="0.5" smooth="0.2" dirt="0.1" extradirt="0.1"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\fwireframe"
+			strength="0.9" scale="80" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
 
-    <!--FAMOUS PAINTER PAINTJOB-->
-    <paint ware="ffamouspainter" quality="1" hue="143" brightness="-0.8" saturation="-0.9" metal="0.4" pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\ffamouspainter" strength="1" scale="10" sharpness="100" invert="0" red="255" green="255" blue="255" alpha="255"/>
-    
-  </add>
-</diff>
+		<!--FAMOUS PAINTER PAINTJOB-->
+		<paint ware="ffamouspainter" quality="1" hue="143" brightness="-0.8"
+			saturation="-0.9" metal="0.4"
+			pattern="extensions\Z_FreeqsPaintjobs\assets\textures\patterns\ffamouspainter"
+			strength="1" scale="10" sharpness="100" invert="0" red="255"
+			green="255" blue="255" alpha="255" />
+
+	</add>
+</diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">

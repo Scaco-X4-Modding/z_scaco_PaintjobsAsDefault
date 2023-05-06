@@ -1,37 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?> 
-<diff> 
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
 	<add pos="prepend" sel="/wares">
-    <ware id="frust" name="FP Rust" description="Freeq's Paintjobs: Rust" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="frustm" name="FP Rust M" description="Freeq's Paintjobs: Rust M" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <!--<ware id="frustxl" name="FP Rust XL" description="Freeq's Paintjobs: Rust XL" transport="inventory" volume="1" tags="inventory paintmod">
+		<ware id="frust" name="FP Rust" description="Freeq's Paintjobs: Rust"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="frustm" name="FP Rust M"
+			description="Freeq's Paintjobs: Rust M" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<!--<ware id="frustxl" name="FP Rust XL" description="Freeq's Paintjobs: Rust XL" transport="inventory" volume="1" tags="inventory paintmod">
       <price min="1" average="1" max="1" />
     </ware>-->
-    
-    <ware id="fpulse" name="FP Pulse Blue" description="Freeq's Paintjobs: Pulse Blue" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fpulsepurple" name="FP Pulse Purple" description="Freeq's Paintjobs: Pulse Purple" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fpulsered" name="FP Pulse Red" description="Freeq's Paintjobs: Pulse Red" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
 
-    <ware id="fpulsem" name="FP Pulse Blue M" description="Freeq's Paintjobs: Pulse Blue M" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fpulsepurplem" name="FP Pulse Purple M" description="Freeq's Paintjobs: Pulse Purple M" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fpulseredm" name="FP Pulse Red M" description="Freeq's Paintjobs: Pulse Red M" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="fpulse" name="FP Pulse Blue"
+			description="Freeq's Paintjobs: Pulse Blue" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fpulsepurple" name="FP Pulse Purple"
+			description="Freeq's Paintjobs: Pulse Purple" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fpulsered" name="FP Pulse Red"
+			description="Freeq's Paintjobs: Pulse Red" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-    <!--<ware id="fpulsexl" name="FP Pulse Blue XL" description="Freeq's Paintjobs: Pulse Blue XL" transport="inventory" volume="1" tags="inventory paintmod">
+		<ware id="fpulsem" name="FP Pulse Blue M"
+			description="Freeq's Paintjobs: Pulse Blue M" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fpulsepurplem" name="FP Pulse Purple M"
+			description="Freeq's Paintjobs: Pulse Purple M"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fpulseredm" name="FP Pulse Red M"
+			description="Freeq's Paintjobs: Pulse Red M" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<!--<ware id="fpulsexl" name="FP Pulse Blue XL" description="Freeq's Paintjobs: Pulse Blue XL" transport="inventory" volume="1" tags="inventory paintmod">
       <price min="1" average="1" max="1" />
     </ware>
     <ware id="fpulsepurplexl" name="FP Pulse Purple XL" description="Freeq's Paintjobs: Pulse Purple XL" transport="inventory" volume="1" tags="inventory paintmod">
@@ -39,237 +54,360 @@
     </ware>
     <ware id="fpulseredxl" name="FP Pulse Red XL" description="Freeq's Paintjobs: Pulse Red XL" transport="inventory" volume="1" tags="inventory paintmod">
       <price min="1" average="1" max="1" />
-    </ware>-->    
-    
-    <ware id="fmatteblack" name="FP Matte Black" description="Freeq's Paintjobs: Matte Red" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmattered" name="FP Matte Red" description="Freeq's Paintjobs: Matte Red" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmatteorange" name="FP Matte Orange" description="Freeq's Paintjobs: Matte Orange" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmatteyellow" name="FP Matte Yellow" description="Freeq's Paintjobs: Matte Yellow" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmattegreen" name="FP Matte Green" description="Freeq's Paintjobs: Matte Green" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmattepurple" name="FP Matte Purple" description="Freeq's Paintjobs: Matte Purple" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmatteblue" name="FP Matte Blue" description="Freeq's Paintjobs: Matte Blue" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+    </ware>-->
 
-    <ware id="fdamagedmatteblack" name="FP Damaged Matte Black" description="Freeq's Paintjobs: Matte Red" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fdamagedmattered" name="FP Damaged Matte Red" description="Freeq's Paintjobs: Matte Red" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fdamagedmatteorange" name="FP Damaged Matte Orange" description="Freeq's Paintjobs: Matte Orange" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fdamagedmatteyellow" name="FP Damaged Matte Yellow" description="Freeq's Paintjobs: Matte Yellow" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fdamagedmattegreen" name="FP Damaged Matte Green" description="Freeq's Paintjobs: Matte Green" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fdamagedmattepurple" name="FP Damaged Matte Purple" description="Freeq's Paintjobs: Matte Purple" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fdamagedmatteblue" name="FP Damaged Matte Blue" description="Freeq's Paintjobs: Matte Blue" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="fmatteblack" name="FP Matte Black"
+			description="Freeq's Paintjobs: Matte Red" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmattered" name="FP Matte Red"
+			description="Freeq's Paintjobs: Matte Red" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmatteorange" name="FP Matte Orange"
+			description="Freeq's Paintjobs: Matte Orange" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmatteyellow" name="FP Matte Yellow"
+			description="Freeq's Paintjobs: Matte Yellow" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmattegreen" name="FP Matte Green"
+			description="Freeq's Paintjobs: Matte Green" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmattepurple" name="FP Matte Purple"
+			description="Freeq's Paintjobs: Matte Purple" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmatteblue" name="FP Matte Blue"
+			description="Freeq's Paintjobs: Matte Blue" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-    <ware id="fmetallicblack" name="FP Metallic Black" description="Freeq's Paintjobs: Metallic Black" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmetallicred" name="FP Metallic Red" description="Freeq's Paintjobs: Metallic Red" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmetallicyellow" name="FP Metallic Yellow" description="Freeq's Paintjobs: Metallic Yellow" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmetallicgreen" name="FP Metallic Green" description="Freeq's Paintjobs: Metallic Green" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmetallicpurple" name="FP Metallic Purple" description="Freeq's Paintjobs: Metallic Purple" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmetallicwhite" name="FP Metallic White" description="Freeq's Paintjobs: Metallic White" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fmetallicblue" name="FP Metallic Blue" description="Freeq's Paintjobs: Metallic Blue" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    
-    <ware id="fstripeswhiteredtint" name="FP Stripes White-Red Tint" description="Freeq's Paintjobs: Stripes White-Red Tint" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fstripeswhitered" name="FP Stripes White-Red" description="Freeq's Paintjobs: Stripes White-Red" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fstripeswhiteredm" name="FP Stripes White-Red M" description="Freeq's Paintjobs: Stripes White-Red M" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fstripeswhiteredxl" name="FP Stripes White-Red XL" description="Freeq's Paintjobs: Stripes White-Red XL" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="fdamagedmatteblack" name="FP Damaged Matte Black"
+			description="Freeq's Paintjobs: Matte Red" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fdamagedmattered" name="FP Damaged Matte Red"
+			description="Freeq's Paintjobs: Matte Red" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fdamagedmatteorange" name="FP Damaged Matte Orange"
+			description="Freeq's Paintjobs: Matte Orange" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fdamagedmatteyellow" name="FP Damaged Matte Yellow"
+			description="Freeq's Paintjobs: Matte Yellow" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fdamagedmattegreen" name="FP Damaged Matte Green"
+			description="Freeq's Paintjobs: Matte Green" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fdamagedmattepurple" name="FP Damaged Matte Purple"
+			description="Freeq's Paintjobs: Matte Purple" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fdamagedmatteblue" name="FP Damaged Matte Blue"
+			description="Freeq's Paintjobs: Matte Blue" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-    <ware id="fstripeswhitebluetint" name="FP Stripes White-Blue Tint" description="Freeq's Paintjobs: Stripes White-Blue Tint" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fstripeswhiteblue" name="FP Stripes White-Blue" description="Freeq's Paintjobs: Stripes White-Blue" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fstripeswhitebluem" name="FP Stripes White-Blue M" description="Freeq's Paintjobs: Stripes White-Blue M" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fstripeswhitebluexl" name="FP Stripes White-Blue XL" description="Freeq's Paintjobs: Stripes White-Blue XL" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="fmetallicblack" name="FP Metallic Black"
+			description="Freeq's Paintjobs: Metallic Black"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmetallicred" name="FP Metallic Red"
+			description="Freeq's Paintjobs: Metallic Red" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmetallicyellow" name="FP Metallic Yellow"
+			description="Freeq's Paintjobs: Metallic Yellow"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmetallicgreen" name="FP Metallic Green"
+			description="Freeq's Paintjobs: Metallic Green"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmetallicpurple" name="FP Metallic Purple"
+			description="Freeq's Paintjobs: Metallic Purple"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmetallicwhite" name="FP Metallic White"
+			description="Freeq's Paintjobs: Metallic White"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fmetallicblue" name="FP Metallic Blue"
+			description="Freeq's Paintjobs: Metallic Blue" transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-    <ware id="fstripeswhiteyellowtint" name="FP Stripes White-Yellow Tint" description="Freeq's Paintjobs: Stripes White-Yellow Tint" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fstripeswhiteyellow" name="FP Stripes White-Yellow" description="Freeq's Paintjobs: Stripes White-Yellow" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fstripeswhiteyellowm" name="FP Stripes White-Yellow M" description="Freeq's Paintjobs: Stripes White-Yellow M" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fstripeswhiteyellowxl" name="FP Stripes White-Yellow XL" description="Freeq's Paintjobs: Stripes White-Yellow XL" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="fstripeswhiteredtint" name="FP Stripes White-Red Tint"
+			description="Freeq's Paintjobs: Stripes White-Red Tint"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fstripeswhitered" name="FP Stripes White-Red"
+			description="Freeq's Paintjobs: Stripes White-Red"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fstripeswhiteredm" name="FP Stripes White-Red M"
+			description="Freeq's Paintjobs: Stripes White-Red M"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fstripeswhiteredxl" name="FP Stripes White-Red XL"
+			description="Freeq's Paintjobs: Stripes White-Red XL"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-    <ware id="fwireframeyellow" name="FP Wireframe Yellow" description="Freeq's Paintjobs: Wireframe Yellow" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fwireframeyellowm" name="FP Wireframe Yellow M" description="Freeq's Paintjobs: Wireframe Yellow M" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="fstripeswhitebluetint" name="FP Stripes White-Blue Tint"
+			description="Freeq's Paintjobs: Stripes White-Blue Tint"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fstripeswhiteblue" name="FP Stripes White-Blue"
+			description="Freeq's Paintjobs: Stripes White-Blue"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fstripeswhitebluem" name="FP Stripes White-Blue M"
+			description="Freeq's Paintjobs: Stripes White-Blue M"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fstripeswhitebluexl" name="FP Stripes White-Blue XL"
+			description="Freeq's Paintjobs: Stripes White-Blue XL"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-    <ware id="fwireframewhite" name="FP Wireframe White" description="Freeq's Paintjobs: Wireframe White" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    <ware id="fwireframewhitem" name="FP Wireframe White M" description="Freeq's Paintjobs: Wireframe White M" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="fstripeswhiteyellowtint" name="FP Stripes White-Yellow Tint"
+			description="Freeq's Paintjobs: Stripes White-Yellow Tint"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fstripeswhiteyellow" name="FP Stripes White-Yellow"
+			description="Freeq's Paintjobs: Stripes White-Yellow"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fstripeswhiteyellowm" name="FP Stripes White-Yellow M"
+			description="Freeq's Paintjobs: Stripes White-Yellow M"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fstripeswhiteyellowxl" name="FP Stripes White-Yellow XL"
+			description="Freeq's Paintjobs: Stripes White-Yellow XL"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-    <ware id="ffamouspainter" name="FP Famous Painter" description="Freeq's Paintjobs: Famous Painter" transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	
-	
-	
-	<ware id="axesred" name="Scarlet" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="fwireframeyellow" name="FP Wireframe Yellow"
+			description="Freeq's Paintjobs: Wireframe Yellow"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fwireframeyellowm" name="FP Wireframe Yellow M"
+			description="Freeq's Paintjobs: Wireframe Yellow M"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axesblue" name="Royal Blue" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesemerald" name="Emerald" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="fwireframewhite" name="FP Wireframe White"
+			description="Freeq's Paintjobs: Wireframe White"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+		<ware id="fwireframewhitem" name="FP Wireframe White M"
+			description="Freeq's Paintjobs: Wireframe White M"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axesmagnum" name="Magnum" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="ffamouspainter" name="FP Famous Painter"
+			description="Freeq's Paintjobs: Famous Painter"
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axessherman" name="Sherman" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesguerilla" name="Guerilla" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesurban" name="Urban" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesmetro" name="Metro" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axestimberland" name="Timberland" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesskyline" name="Skyline" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesskyline2" name="Skyline Two" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
 
-	<ware id="axeshardware" name="Hardware" description="Basic quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="axesred" name="Scarlet" description="Basic quality paintmod."
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axeselectric" name="Electric!" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesumber" name="Umber" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-		
-	<ware id="axespursuit" name="Pursuit" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="axesblue" name="Royal Blue"
+			description="Basic quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axesfarout" name="Far-out" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesamoeba" name="Amoeba" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesrevenant" name="Revenant" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axeslabyrinth" name="Labyrinth" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="axesemerald" name="Emerald"
+			description="Basic quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axesred2" name="Sanguine Fune" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="axesmagnum" name="Magnum"
+			description="Basic quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axesvirginian" name="Virginian" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="axessherman" name="Sherman"
+			description="Basic quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axesvirginian2" name="Virginian Two" description="Enhanced quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="axesguerilla" name="Guerilla"
+			description="Basic quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axesvelocity" name="Velocity" description="Exceptional quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="axesurban" name="Urban" description="Basic quality paintmod."
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axeswraith" name="Wraith" description="Exceptional quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-	
-	<ware id="axesstarbound" name="Starbound" description="Exceptional quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
+		<ware id="axesmetro" name="Metro" description="Basic quality paintmod."
+			transport="inventory" volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
 
-	<ware id="axesexcess" name="Excess Profitss!" description="Exceptional quality paintmod." transport="inventory" volume="1" tags="inventory paintmod">
-      <price min="1" average="1" max="1" />
-    </ware>
-    
-  </add>
+		<ware id="axestimberland" name="Timberland"
+			description="Basic quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesskyline" name="Skyline"
+			description="Basic quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesskyline2" name="Skyline Two"
+			description="Basic quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axeshardware" name="Hardware"
+			description="Basic quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axeselectric" name="Electric!"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesumber" name="Umber"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axespursuit" name="Pursuit"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesfarout" name="Far-out"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesamoeba" name="Amoeba"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesrevenant" name="Revenant"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axeslabyrinth" name="Labyrinth"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesred2" name="Sanguine Fune"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesvirginian" name="Virginian"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesvirginian2" name="Virginian Two"
+			description="Enhanced quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesvelocity" name="Velocity"
+			description="Exceptional quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axeswraith" name="Wraith"
+			description="Exceptional quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesstarbound" name="Starbound"
+			description="Exceptional quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+		<ware id="axesexcess" name="Excess Profitss!"
+			description="Exceptional quality paintmod." transport="inventory"
+			volume="1" tags="inventory paintmod">
+			<price min="1" average="1" max="1" />
+		</ware>
+
+	</add>
 </diff>

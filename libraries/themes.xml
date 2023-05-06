@@ -1,989 +1,1224 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
-  <add sel="/themes">
-  
-	<!-- FreeqsPaintJobs -->
-			<theme id="painttheme_Axes_101" default="error_theme" name="painttheme_Axes_101">
-				<group faction="player" paintmod="axesred" />
-			</theme>
-			<theme id="painttheme_Axes_102" default="error_theme" name="painttheme_Axes_102">
-				<group faction="player" paintmod="axesemerald" />
-			</theme>
-			<theme id="painttheme_Axes_103" default="error_theme" name="painttheme_Axes_103">
-				<group faction="player" paintmod="axesblue" />
-			</theme>
-			<theme id="painttheme_Axes_104" default="error_theme" name="painttheme_Axes_104">
-				<group faction="player" paintmod="axesmagnum" />
-			</theme>
-			<theme id="painttheme_Axes_105" default="error_theme" name="painttheme_Axes_105">
-				<group faction="player" paintmod="axeshardware" />
-			</theme>
-			<theme id="painttheme_Axes_106" default="error_theme" name="painttheme_Axes_106">
-				<group faction="player" paintmod="axessherman" />
-			</theme>
-			<theme id="painttheme_Axes_107" default="error_theme" name="painttheme_Axes_107">
-				<group faction="player" paintmod="axesguerilla" />
-			</theme>
-			<theme id="painttheme_Axes_108" default="error_theme" name="painttheme_Axes_108">
-				<group faction="player" paintmod="axesurban" />
-			</theme>
-			<theme id="painttheme_Axes_109" default="error_theme" name="painttheme_Axes_109">
-				<group faction="player" paintmod="axesmetro" />
-			</theme>
-			<theme id="painttheme_Axes_110" default="error_theme" name="painttheme_Axes_110">
-				<group faction="player" paintmod="axestimberland" />
-			</theme>
-			<theme id="painttheme_Axes_111" default="error_theme" name="painttheme_Axes_111">
-				<group faction="player" paintmod="axesskyline" />
-			</theme>
-			<theme id="painttheme_Axes_112" default="error_theme" name="painttheme_Axes_112">
-				<group faction="player" paintmod="axesskyline2" />
-			</theme>
-			
-			
-			<theme id="painttheme_Axes_201" default="error_theme" name="painttheme_Axes_201">
-				<group faction="player" paintmod="axeselectric" />
-			</theme>
-			<theme id="painttheme_Axes_202" default="error_theme" name="painttheme_Axes_202">
-				<group faction="player" paintmod="axesumber" />
-			</theme>
-			<theme id="painttheme_Axes_203" default="error_theme" name="painttheme_Axes_203">
-				<group faction="player" paintmod="axespursuit" />
-			</theme>
-			<theme id="painttheme_Axes_204" default="error_theme" name="painttheme_Axes_204">
-				<group faction="player" paintmod="axesred2" />
-			</theme>
-			<theme id="painttheme_Axes_205" default="error_theme" name="painttheme_Axes_205">
-				<group faction="player" paintmod="axesrevenant" />
-			</theme>
-			<theme id="painttheme_Axes_206" default="error_theme" name="painttheme_Axes_206">
-				<group faction="player" paintmod="axeslabyrinth" />
-			</theme>
-			<theme id="painttheme_Axes_207" default="error_theme" name="painttheme_Axes_207">
-				<group faction="player" paintmod="axesfarout" />
-			</theme>
-			<theme id="painttheme_Axes_208" default="error_theme" name="painttheme_Axes_208">
-				<group faction="player" paintmod="axesamoeba" />
-			</theme>
-			<theme id="painttheme_Axes_209" default="error_theme" name="painttheme_Axes_209">
-				<group faction="player" paintmod="axesvirginian" />
-			</theme>
-			<theme id="painttheme_Axes_210" default="error_theme" name="painttheme_Axes_210">
-				<group faction="player" paintmod="axesvirginian2" />
-			</theme>
-			
-			
-			<theme id="painttheme_Axes_301" default="error_theme" name="painttheme_Axes_301">
-				<group faction="player" paintmod="axeswraith" />
-			</theme>
-			<theme id="painttheme_Axes_302" default="error_theme" name="painttheme_Axes_302">
-				<group faction="player" paintmod="axesvelocity" />
-			</theme>
-			<theme id="painttheme_Axes_303" default="error_theme" name="painttheme_Axes_303">
-				<group faction="player" paintmod="axesstarbound" />
-			</theme>
-			<theme id="painttheme_Axes_304" default="error_theme" name="painttheme_Axes_304">
-				<group faction="player" paintmod="axesexcess" />
-			</theme>
-			
-			
-	<!-- FreeqsPaintJobs -->
-			<theme id="painttheme_Freeqs_101" default="error_theme" name="painttheme_Freeqs_101">
-				<group faction="player" paintmod="fmatteblack" />
-			</theme>
-			<theme id="painttheme_Freeqs_102" default="error_theme" name="painttheme_Freeqs_102">
-				<group faction="player" paintmod="fmattered" />
-			</theme>
-			<theme id="painttheme_Freeqs_103" default="error_theme" name="painttheme_Freeqs_103">
-				<group faction="player" paintmod="fmatteorange" />
-			</theme>
-			<theme id="painttheme_Freeqs_104" default="error_theme" name="painttheme_Freeqs_104">
-				<group faction="player" paintmod="fmatteyellow" />
-			</theme>
-			<theme id="painttheme_Freeqs_105" default="error_theme" name="painttheme_Freeqs_105">
-				<group faction="player" paintmod="fmattegreen" />
-			</theme>
-			<theme id="painttheme_Freeqs_106" default="error_theme" name="painttheme_Freeqs_106">
-				<group faction="player" paintmod="fmattepurple" />
-			</theme>
-			<theme id="painttheme_Freeqs_107" default="error_theme" name="painttheme_Freeqs_107">
-				<group faction="player" paintmod="fmatteblue" />
-			</theme>
-			
-			
-			<theme id="painttheme_Freeqs_201" default="error_theme" name="painttheme_Freeqs_201">
-				<group faction="player" paintmod="fdamagedmatteblack" />
-			</theme>
-			<theme id="painttheme_Freeqs_202" default="error_theme" name="painttheme_Freeqs_202">
-				<group faction="player" paintmod="fdamagedmattered" />
-			</theme>
-			<theme id="painttheme_Freeqs_203" default="error_theme" name="painttheme_Freeqs_203">
-				<group faction="player" paintmod="fdamagedmatteorange" />
-			</theme>
-			<theme id="painttheme_Freeqs_204" default="error_theme" name="painttheme_Freeqs_204">
-				<group faction="player" paintmod="fdamagedmatteyellow" />
-			</theme>
-			<theme id="painttheme_Freeqs_205" default="error_theme" name="painttheme_Freeqs_205">
-				<group faction="player" paintmod="fdamagedmattegreen" />
-			</theme>
-			<theme id="painttheme_Freeqs_206" default="error_theme" name="painttheme_Freeqs_206">
-				<group faction="player" paintmod="fdamagedmattepurple" />
-			</theme>
-			<theme id="painttheme_Freeqs_207" default="error_theme" name="painttheme_Freeqs_207">
-				<group faction="player" paintmod="fdamagedmatteblue" />
-			</theme>
-			
-			
-			<theme id="painttheme_Freeqs_301" default="error_theme" name="painttheme_Freeqs_301">
-				<group faction="player" paintmod="fmetallicblack" />
-			</theme>
-			<theme id="painttheme_Freeqs_302" default="error_theme" name="painttheme_Freeqs_302">
-				<group faction="player" paintmod="fmetallicred" />
-			</theme>
-			<theme id="painttheme_Freeqs_303" default="error_theme" name="painttheme_Freeqs_303">
-				<group faction="player" paintmod="fmetallicorange" />
-			</theme>
-			<theme id="painttheme_Freeqs_304" default="error_theme" name="painttheme_Freeqs_304">
-				<group faction="player" paintmod="fmetallicyellow" />
-			</theme>
-			<theme id="painttheme_Freeqs_305" default="error_theme" name="painttheme_Freeqs_305">
-				<group faction="player" paintmod="fmetallicgreen" />
-			</theme>
-			<theme id="painttheme_Freeqs_306" default="error_theme" name="painttheme_Freeqs_306">
-				<group faction="player" paintmod="fmetallicpurple" />
-			</theme>
-			<theme id="painttheme_Freeqs_307" default="error_theme" name="painttheme_Freeqs_307">
-				<group faction="player" paintmod="fmetallicblue" />
-			</theme>
-			<theme id="painttheme_Freeqs_308" default="error_theme" name="painttheme_Freeqs_308">
-				<group faction="player" paintmod="fmetallicwhite" />
-			</theme>
-			
-			
-			<theme id="painttheme_Freeqs_401" default="error_theme" name="painttheme_Freeqs_401">
-				<group faction="player" paintmod="fstripeswhiteredtint" />
-			</theme>
-			<theme id="painttheme_Freeqs_402" default="error_theme" name="painttheme_Freeqs_402">
-				<group faction="player" paintmod="fstripeswhitebluetint" />
-			</theme>
-			<theme id="painttheme_Freeqs_403" default="error_theme" name="painttheme_Freeqs_403">
-				<group faction="player" paintmod="fstripeswhiteyellowtint" />
-			</theme>
-			
-			
-			<theme id="painttheme_Freeqs_501" default="error_theme" name="painttheme_Freeqs_501">
-				<group faction="player" paintmod="fpulse" />
-			</theme>
-			<theme id="painttheme_Freeqs_502" default="error_theme" name="painttheme_Freeqs_502">
-				<group faction="player" paintmod="fpulsepurple" />
-			</theme>
-			<theme id="painttheme_Freeqs_503" default="error_theme" name="painttheme_Freeqs_503">
-				<group faction="player" paintmod="fpulsered" />
-			</theme>
-			
-			
-			<theme id="painttheme_Freeqs_601" default="error_theme" name="painttheme_Freeqs_601">
-				<group faction="player" paintmod="frust" />
-			</theme>
-			
-			
-			<theme id="painttheme_Freeqs_701" default="error_theme" name="painttheme_Freeqs_701">
-				<group faction="player" paintmod="fwireframeyellow" />
-			</theme>
-			<theme id="painttheme_Freeqs_702" default="error_theme" name="painttheme_Freeqs_702">
-				<group faction="player" paintmod="fwireframewhite" />
-			</theme>
-			
-			
-			<theme id="painttheme_Freeqs_801" default="error_theme" name="painttheme_Freeqs_801">
-				<group faction="player" paintmod="ffamouspainter" />
-			</theme>
-			
-			
-			
-	<!-- ARGON -->
+	<add sel="/themes">
+
+		<!-- FreeqsPaintJobs -->
+		<theme id="painttheme_Axes_101" default="error_theme"
+			name="painttheme_Axes_101">
+			<group faction="player" paintmod="axesred" />
+		</theme>
+		<theme id="painttheme_Axes_102" default="error_theme"
+			name="painttheme_Axes_102">
+			<group faction="player" paintmod="axesemerald" />
+		</theme>
+		<theme id="painttheme_Axes_103" default="error_theme"
+			name="painttheme_Axes_103">
+			<group faction="player" paintmod="axesblue" />
+		</theme>
+		<theme id="painttheme_Axes_104" default="error_theme"
+			name="painttheme_Axes_104">
+			<group faction="player" paintmod="axesmagnum" />
+		</theme>
+		<theme id="painttheme_Axes_105" default="error_theme"
+			name="painttheme_Axes_105">
+			<group faction="player" paintmod="axeshardware" />
+		</theme>
+		<theme id="painttheme_Axes_106" default="error_theme"
+			name="painttheme_Axes_106">
+			<group faction="player" paintmod="axessherman" />
+		</theme>
+		<theme id="painttheme_Axes_107" default="error_theme"
+			name="painttheme_Axes_107">
+			<group faction="player" paintmod="axesguerilla" />
+		</theme>
+		<theme id="painttheme_Axes_108" default="error_theme"
+			name="painttheme_Axes_108">
+			<group faction="player" paintmod="axesurban" />
+		</theme>
+		<theme id="painttheme_Axes_109" default="error_theme"
+			name="painttheme_Axes_109">
+			<group faction="player" paintmod="axesmetro" />
+		</theme>
+		<theme id="painttheme_Axes_110" default="error_theme"
+			name="painttheme_Axes_110">
+			<group faction="player" paintmod="axestimberland" />
+		</theme>
+		<theme id="painttheme_Axes_111" default="error_theme"
+			name="painttheme_Axes_111">
+			<group faction="player" paintmod="axesskyline" />
+		</theme>
+		<theme id="painttheme_Axes_112" default="error_theme"
+			name="painttheme_Axes_112">
+			<group faction="player" paintmod="axesskyline2" />
+		</theme>
+
+
+		<theme id="painttheme_Axes_201" default="error_theme"
+			name="painttheme_Axes_201">
+			<group faction="player" paintmod="axeselectric" />
+		</theme>
+		<theme id="painttheme_Axes_202" default="error_theme"
+			name="painttheme_Axes_202">
+			<group faction="player" paintmod="axesumber" />
+		</theme>
+		<theme id="painttheme_Axes_203" default="error_theme"
+			name="painttheme_Axes_203">
+			<group faction="player" paintmod="axespursuit" />
+		</theme>
+		<theme id="painttheme_Axes_204" default="error_theme"
+			name="painttheme_Axes_204">
+			<group faction="player" paintmod="axesred2" />
+		</theme>
+		<theme id="painttheme_Axes_205" default="error_theme"
+			name="painttheme_Axes_205">
+			<group faction="player" paintmod="axesrevenant" />
+		</theme>
+		<theme id="painttheme_Axes_206" default="error_theme"
+			name="painttheme_Axes_206">
+			<group faction="player" paintmod="axeslabyrinth" />
+		</theme>
+		<theme id="painttheme_Axes_207" default="error_theme"
+			name="painttheme_Axes_207">
+			<group faction="player" paintmod="axesfarout" />
+		</theme>
+		<theme id="painttheme_Axes_208" default="error_theme"
+			name="painttheme_Axes_208">
+			<group faction="player" paintmod="axesamoeba" />
+		</theme>
+		<theme id="painttheme_Axes_209" default="error_theme"
+			name="painttheme_Axes_209">
+			<group faction="player" paintmod="axesvirginian" />
+		</theme>
+		<theme id="painttheme_Axes_210" default="error_theme"
+			name="painttheme_Axes_210">
+			<group faction="player" paintmod="axesvirginian2" />
+		</theme>
+
+
+		<theme id="painttheme_Axes_301" default="error_theme"
+			name="painttheme_Axes_301">
+			<group faction="player" paintmod="axeswraith" />
+		</theme>
+		<theme id="painttheme_Axes_302" default="error_theme"
+			name="painttheme_Axes_302">
+			<group faction="player" paintmod="axesvelocity" />
+		</theme>
+		<theme id="painttheme_Axes_303" default="error_theme"
+			name="painttheme_Axes_303">
+			<group faction="player" paintmod="axesstarbound" />
+		</theme>
+		<theme id="painttheme_Axes_304" default="error_theme"
+			name="painttheme_Axes_304">
+			<group faction="player" paintmod="axesexcess" />
+		</theme>
+
+
+		<!-- FreeqsPaintJobs -->
+		<theme id="painttheme_Freeqs_101" default="error_theme"
+			name="painttheme_Freeqs_101">
+			<group faction="player" paintmod="fmatteblack" />
+		</theme>
+		<theme id="painttheme_Freeqs_102" default="error_theme"
+			name="painttheme_Freeqs_102">
+			<group faction="player" paintmod="fmattered" />
+		</theme>
+		<theme id="painttheme_Freeqs_103" default="error_theme"
+			name="painttheme_Freeqs_103">
+			<group faction="player" paintmod="fmatteorange" />
+		</theme>
+		<theme id="painttheme_Freeqs_104" default="error_theme"
+			name="painttheme_Freeqs_104">
+			<group faction="player" paintmod="fmatteyellow" />
+		</theme>
+		<theme id="painttheme_Freeqs_105" default="error_theme"
+			name="painttheme_Freeqs_105">
+			<group faction="player" paintmod="fmattegreen" />
+		</theme>
+		<theme id="painttheme_Freeqs_106" default="error_theme"
+			name="painttheme_Freeqs_106">
+			<group faction="player" paintmod="fmattepurple" />
+		</theme>
+		<theme id="painttheme_Freeqs_107" default="error_theme"
+			name="painttheme_Freeqs_107">
+			<group faction="player" paintmod="fmatteblue" />
+		</theme>
+
+
+		<theme id="painttheme_Freeqs_201" default="error_theme"
+			name="painttheme_Freeqs_201">
+			<group faction="player" paintmod="fdamagedmatteblack" />
+		</theme>
+		<theme id="painttheme_Freeqs_202" default="error_theme"
+			name="painttheme_Freeqs_202">
+			<group faction="player" paintmod="fdamagedmattered" />
+		</theme>
+		<theme id="painttheme_Freeqs_203" default="error_theme"
+			name="painttheme_Freeqs_203">
+			<group faction="player" paintmod="fdamagedmatteorange" />
+		</theme>
+		<theme id="painttheme_Freeqs_204" default="error_theme"
+			name="painttheme_Freeqs_204">
+			<group faction="player" paintmod="fdamagedmatteyellow" />
+		</theme>
+		<theme id="painttheme_Freeqs_205" default="error_theme"
+			name="painttheme_Freeqs_205">
+			<group faction="player" paintmod="fdamagedmattegreen" />
+		</theme>
+		<theme id="painttheme_Freeqs_206" default="error_theme"
+			name="painttheme_Freeqs_206">
+			<group faction="player" paintmod="fdamagedmattepurple" />
+		</theme>
+		<theme id="painttheme_Freeqs_207" default="error_theme"
+			name="painttheme_Freeqs_207">
+			<group faction="player" paintmod="fdamagedmatteblue" />
+		</theme>
+
+
+		<theme id="painttheme_Freeqs_301" default="error_theme"
+			name="painttheme_Freeqs_301">
+			<group faction="player" paintmod="fmetallicblack" />
+		</theme>
+		<theme id="painttheme_Freeqs_302" default="error_theme"
+			name="painttheme_Freeqs_302">
+			<group faction="player" paintmod="fmetallicred" />
+		</theme>
+		<theme id="painttheme_Freeqs_303" default="error_theme"
+			name="painttheme_Freeqs_303">
+			<group faction="player" paintmod="fmetallicorange" />
+		</theme>
+		<theme id="painttheme_Freeqs_304" default="error_theme"
+			name="painttheme_Freeqs_304">
+			<group faction="player" paintmod="fmetallicyellow" />
+		</theme>
+		<theme id="painttheme_Freeqs_305" default="error_theme"
+			name="painttheme_Freeqs_305">
+			<group faction="player" paintmod="fmetallicgreen" />
+		</theme>
+		<theme id="painttheme_Freeqs_306" default="error_theme"
+			name="painttheme_Freeqs_306">
+			<group faction="player" paintmod="fmetallicpurple" />
+		</theme>
+		<theme id="painttheme_Freeqs_307" default="error_theme"
+			name="painttheme_Freeqs_307">
+			<group faction="player" paintmod="fmetallicblue" />
+		</theme>
+		<theme id="painttheme_Freeqs_308" default="error_theme"
+			name="painttheme_Freeqs_308">
+			<group faction="player" paintmod="fmetallicwhite" />
+		</theme>
+
+
+		<theme id="painttheme_Freeqs_401" default="error_theme"
+			name="painttheme_Freeqs_401">
+			<group faction="player" paintmod="fstripeswhiteredtint" />
+		</theme>
+		<theme id="painttheme_Freeqs_402" default="error_theme"
+			name="painttheme_Freeqs_402">
+			<group faction="player" paintmod="fstripeswhitebluetint" />
+		</theme>
+		<theme id="painttheme_Freeqs_403" default="error_theme"
+			name="painttheme_Freeqs_403">
+			<group faction="player" paintmod="fstripeswhiteyellowtint" />
+		</theme>
+
+
+		<theme id="painttheme_Freeqs_501" default="error_theme"
+			name="painttheme_Freeqs_501">
+			<group faction="player" paintmod="fpulse" />
+		</theme>
+		<theme id="painttheme_Freeqs_502" default="error_theme"
+			name="painttheme_Freeqs_502">
+			<group faction="player" paintmod="fpulsepurple" />
+		</theme>
+		<theme id="painttheme_Freeqs_503" default="error_theme"
+			name="painttheme_Freeqs_503">
+			<group faction="player" paintmod="fpulsered" />
+		</theme>
+
+
+		<theme id="painttheme_Freeqs_601" default="error_theme"
+			name="painttheme_Freeqs_601">
+			<group faction="player" paintmod="frust" />
+		</theme>
+
+
+		<theme id="painttheme_Freeqs_701" default="error_theme"
+			name="painttheme_Freeqs_701">
+			<group faction="player" paintmod="fwireframeyellow" />
+		</theme>
+		<theme id="painttheme_Freeqs_702" default="error_theme"
+			name="painttheme_Freeqs_702">
+			<group faction="player" paintmod="fwireframewhite" />
+		</theme>
+
+
+		<theme id="painttheme_Freeqs_801" default="error_theme"
+			name="painttheme_Freeqs_801">
+			<group faction="player" paintmod="ffamouspainter" />
+		</theme>
+
+
+		<!-- ARGON -->
 		<!-- ARG -->
-			<!-- Federation Pennon -->
-			<theme id="painttheme_strangi_f_002" default="error_theme" name="ZZ0002 {20114,10021}">
+		<!-- Federation Pennon -->
+		<theme id="painttheme_strangi_f_002" default="error_theme"
+			name="ZZ0002 {20114,10021}">
 			<group faction="player" paintmod="paintmod_0002" />
-			</theme>
-			<!-- Federation Camo 1 -->
-			<theme id="painttheme_strangi_f_024" default="error_theme" name="ZZ0024 {20114,10241}">
+		</theme>
+		<!-- Federation Camo 1 -->
+		<theme id="painttheme_strangi_f_024" default="error_theme"
+			name="ZZ0024 {20114,10241}">
 			<group faction="player" paintmod="paintmod_0024" />
-			</theme>
-			<!-- Federation Camo 2 -->
-			<theme id="painttheme_strangi_f_025" default="error_theme" name="ZZ0025 {20114,10251}">
+		</theme>
+		<!-- Federation Camo 2 -->
+		<theme id="painttheme_strangi_f_025" default="error_theme"
+			name="ZZ0025 {20114,10251}">
 			<group faction="player" paintmod="paintmod_0025" />
-			</theme>
-			<!-- Federation Camo 3 -->
-			<theme id="painttheme_strangi_f_026" default="error_theme" name="ZZ0026 {20114,10261}">
+		</theme>
+		<!-- Federation Camo 3 -->
+		<theme id="painttheme_strangi_f_026" default="error_theme"
+			name="ZZ0026 {20114,10261}">
 			<group faction="player" paintmod="paintmod_0026" />
-			</theme>
-			<!-- Forty-Two -->
-			<theme id="painttheme_strangi_f_076" default="error_theme" name="ZZ0076 {20114,10761}">
+		</theme>
+		<!-- Forty-Two -->
+		<theme id="painttheme_strangi_f_076" default="error_theme"
+			name="ZZ0076 {20114,10761}">
 			<group faction="player" paintmod="paintmod_0076" />
-			</theme>		
+		</theme>
 		<!-- ANT -->
-			<!-- Republic Standard -->
-			<theme id="painttheme_strangi_f_003" default="error_theme" name="ZZ0003 {20114,10031}">
+		<!-- Republic Standard -->
+		<theme id="painttheme_strangi_f_003" default="error_theme"
+			name="ZZ0003 {20114,10031}">
 			<group faction="player" paintmod="paintmod_0003" />
-			</theme>
-			<!-- Republic Camo 1 -->
-			<theme id="painttheme_strangi_f_027" default="error_theme" name="ZZ0027 {20114,10271}">
+		</theme>
+		<!-- Republic Camo 1 -->
+		<theme id="painttheme_strangi_f_027" default="error_theme"
+			name="ZZ0027 {20114,10271}">
 			<group faction="player" paintmod="paintmod_0027" />
-			</theme>
-			<!-- Republic Camo 2 -->
-			<theme id="painttheme_strangi_f_028" default="error_theme" name="ZZ0028 {20114,10281}">
+		</theme>
+		<!-- Republic Camo 2 -->
+		<theme id="painttheme_strangi_f_028" default="error_theme"
+			name="ZZ0028 {20114,10281}">
 			<group faction="player" paintmod="paintmod_0028" />
-			</theme>
-			<!-- Republic Camo 3 -->
-			<theme id="painttheme_strangi_f_029" default="error_theme" name="ZZ0029 {20114,10291}">
+		</theme>
+		<!-- Republic Camo 3 -->
+		<theme id="painttheme_strangi_f_029" default="error_theme"
+			name="ZZ0029 {20114,10291}">
 			<group faction="player" paintmod="paintmod_0029" />
-			</theme>
-			<!-- The Vindicator -->
-			<theme id="painttheme_strangi_f_074" default="error_theme" name="ZZ0074 {20114,10741}">
+		</theme>
+		<!-- The Vindicator -->
+		<theme id="painttheme_strangi_f_074" default="error_theme"
+			name="ZZ0074 {20114,10741}">
 			<group faction="player" paintmod="paintmod_0074" />
-			</theme>
+		</theme>
 		<!-- HAT -->
-			<!-- Hatikvah Banner -->
-			<theme id="painttheme_strangi_f_007" default="error_theme" name="ZZ0007 {20114,10071}">
+		<!-- Hatikvah Banner -->
+		<theme id="painttheme_strangi_f_007" default="error_theme"
+			name="ZZ0007 {20114,10071}">
 			<group faction="player" paintmod="paintmod_0007" />
-			</theme>
-			<!-- Act of Distraction -->
-			<theme id="painttheme_strangi_f_013" default="error_theme" name="ZZ0013 {20114,10131}">
+		</theme>
+		<!-- Act of Distraction -->
+		<theme id="painttheme_strangi_f_013" default="error_theme"
+			name="ZZ0013 {20114,10131}">
 			<group faction="player" paintmod="paintmod_0013" />
-			</theme>
-			<!-- Cracked Surface -->
-			<theme id="painttheme_strangi_f_023" default="error_theme" name="ZZ0023 {20114,10231}">
+		</theme>
+		<!-- Cracked Surface -->
+		<theme id="painttheme_strangi_f_023" default="error_theme"
+			name="ZZ0023 {20114,10231}">
 			<group faction="player" paintmod="paintmod_0023" />
-			</theme>
+		</theme>
 		<!-- Checkmate -->
-			<theme id="painttheme_strangi_f_105" default="error_theme" name="ZZ0105 {20114,11051}">
+		<theme id="painttheme_strangi_f_105" default="error_theme"
+			name="ZZ0105 {20114,11051}">
 			<group faction="player" paintmod="paintmod_0105" />
-			</theme>
+		</theme>
 
-		
-	<!-- TELADI -->
+
+		<!-- TELADI -->
 		<!-- TEL -->
-			<!-- Company Skin -->
-			<theme id="painttheme_strangi_f_004" default="error_theme" name="ZZ0004 {20114,10041}">
+		<!-- Company Skin -->
+		<theme id="painttheme_strangi_f_004" default="error_theme"
+			name="ZZ0004 {20114,10041}">
 			<group faction="player" paintmod="paintmod_0004" />
-			</theme>
-			<!-- Company Camo 1 -->
-			<theme id="painttheme_strangi_f_030" default="error_theme" name="ZZ0030 {20114,10301}">
+		</theme>
+		<!-- Company Camo 1 -->
+		<theme id="painttheme_strangi_f_030" default="error_theme"
+			name="ZZ0030 {20114,10301}">
 			<group faction="player" paintmod="paintmod_0030" />
-			</theme>
-			<!-- Company Camo 2 -->
-			<theme id="painttheme_strangi_f_031" default="error_theme" name="ZZ0031 {20114,10311}">
+		</theme>
+		<!-- Company Camo 2 -->
+		<theme id="painttheme_strangi_f_031" default="error_theme"
+			name="ZZ0031 {20114,10311}">
 			<group faction="player" paintmod="paintmod_0031" />
-			</theme>
-			<!-- Company Camo 3 -->
-			<theme id="painttheme_strangi_f_032" default="error_theme" name="ZZ0032 {20114,10321}">
+		</theme>
+		<!-- Company Camo 3 -->
+		<theme id="painttheme_strangi_f_032" default="error_theme"
+			name="ZZ0032 {20114,10321}">
 			<group faction="player" paintmod="paintmod_0032" />
-			</theme>
-			<!-- Opportunity -->
-			<theme id="painttheme_strangi_f_080" default="error_theme" name="ZZ0080 {20114,10801}">
+		</theme>
+		<!-- Opportunity -->
+		<theme id="painttheme_strangi_f_080" default="error_theme"
+			name="ZZ0080 {20114,10801}">
 			<group faction="player" paintmod="paintmod_0080" />
-			</theme>	
+		</theme>
 		<!-- SCA -->
-			<!-- Scale Plate Greenback -->
-			<theme id="painttheme_strangi_f_005" default="error_theme" name="ZZ0005 {20114,10051}">
+		<!-- Scale Plate Greenback -->
+		<theme id="painttheme_strangi_f_005" default="error_theme"
+			name="ZZ0005 {20114,10051}">
 			<group faction="player" paintmod="paintmod_0005" />
-			</theme>
-			<!-- Ianamus Ztealth -->
-			<theme id="painttheme_strangi_f_014" default="error_theme" name="ZZ0014 {20114,10141}">
+		</theme>
+		<!-- Ianamus Ztealth -->
+		<theme id="painttheme_strangi_f_014" default="error_theme"
+			name="ZZ0014 {20114,10141}">
 			<group faction="player" paintmod="paintmod_0014" />
-			</theme>
-			<!-- Scale Plate Camo 1 -->
-			<theme id="painttheme_strangi_f_033" default="error_theme" name="ZZ0033 {20114,10331}">
+		</theme>
+		<!-- Scale Plate Camo 1 -->
+		<theme id="painttheme_strangi_f_033" default="error_theme"
+			name="ZZ0033 {20114,10331}">
 			<group faction="player" paintmod="paintmod_0033" />
-			</theme>
-			<!-- Scale Plate Camo 2 -->
-			<theme id="painttheme_strangi_f_034" default="error_theme" name="ZZ0034 {20114,10341}">
+		</theme>
+		<!-- Scale Plate Camo 2 -->
+		<theme id="painttheme_strangi_f_034" default="error_theme"
+			name="ZZ0034 {20114,10341}">
 			<group faction="player" paintmod="paintmod_0034" />
-			</theme>
-			<!-- Scale Plate Camo 3 -->
-			<theme id="painttheme_strangi_f_035" default="error_theme" name="ZZ0035 {20114,10351}">
+		</theme>
+		<!-- Scale Plate Camo 3 -->
+		<theme id="painttheme_strangi_f_035" default="error_theme"
+			name="ZZ0035 {20114,10351}">
 			<group faction="player" paintmod="paintmod_0035" />
-			</theme>
-			<!-- Scream -->
-			<theme id="painttheme_strangi_f_075" default="error_theme" name="ZZ0075 {20114,10751}">
+		</theme>
+		<!-- Scream -->
+		<theme id="painttheme_strangi_f_075" default="error_theme"
+			name="ZZ0075 {20114,10751}">
 			<group faction="player" paintmod="paintmod_0075" />
-			</theme>
+		</theme>
 		<!-- MIN -->
-			<!-- Ministry Buck -->
-			<theme id="painttheme_strangi_f_012" default="error_theme" name="ZZ0012 {20114,10121}">
+		<!-- Ministry Buck -->
+		<theme id="painttheme_strangi_f_012" default="error_theme"
+			name="ZZ0012 {20114,10121}">
 			<group faction="player" paintmod="paintmod_0012" />
-			</theme>
-			<!-- Ministry Camo 1 -->
-			<theme id="painttheme_strangi_f_045" default="error_theme" name="ZZ0045 {20114,10451}">
+		</theme>
+		<!-- Ministry Camo 1 -->
+		<theme id="painttheme_strangi_f_045" default="error_theme"
+			name="ZZ0045 {20114,10451}">
 			<group faction="player" paintmod="paintmod_0045" />
-			</theme>
-			<!-- Ministry Camo 2 -->
-			<theme id="painttheme_strangi_f_046" default="error_theme" name="ZZ0046 {20114,10461}">
+		</theme>
+		<!-- Ministry Camo 2 -->
+		<theme id="painttheme_strangi_f_046" default="error_theme"
+			name="ZZ0046 {20114,10461}">
 			<group faction="player" paintmod="paintmod_0046" />
-			</theme>
-			<!-- Ministry Camo 3 -->
-			<theme id="painttheme_strangi_f_047" default="error_theme" name="ZZ0047 {20114,10471}">
+		</theme>
+		<!-- Ministry Camo 3 -->
+		<theme id="painttheme_strangi_f_047" default="error_theme"
+			name="ZZ0047 {20114,10471}">
 			<group faction="player" paintmod="paintmod_0047" />
-			</theme>
-	
-	
-	
-	<!-- PARANID -->
-		<!-- PAR -->
-			<!-- Godrealm Pride -->
-			<theme id="painttheme_strangi_f_009" default="error_theme" name="ZZ0009 {20114,10091}">
-			<group faction="player" paintmod="paintmod_0009" />
-			</theme>
-			<!-- Godrealm Camo 1 -->
-			<theme id="painttheme_strangi_f_036" default="error_theme" name="ZZ0036 {20114,10361}">
-			<group faction="player" paintmod="paintmod_0036" />
-			</theme>
-			<!-- Godrealm Camo 2 -->
-			<theme id="painttheme_strangi_f_037" default="error_theme" name="ZZ0037 {20114,10371}">
-			<group faction="player" paintmod="paintmod_0037" />
-			</theme>
-			<!-- Godrealm Camo 3 -->
-			<theme id="painttheme_strangi_f_038" default="error_theme" name="ZZ0038 {20114,10381}">
-			<group faction="player" paintmod="paintmod_0038" />
-			</theme>
-			<!-- Leap of Faith -->
-			<theme id="painttheme_strangi_f_085" default="error_theme" name="ZZ0085 {20114,10851}">
-			<group faction="player" paintmod="paintmod_0085" />
-			</theme>		
-		<!-- HOP -->
-			<!-- Order Wrath -->
-			<theme id="painttheme_strangi_f_010" default="error_theme" name="ZZ0010 {20114,10101}">
-			<group faction="player" paintmod="paintmod_0010" />
-			</theme>
-			<!-- Holy Order Camo 1 -->
-			<theme id="painttheme_strangi_f_039" default="error_theme" name="ZZ0039 {20114,10391}">
-			<group faction="player" paintmod="paintmod_0039" />
-			</theme>
-			<!-- Holy Order Camo 2 -->
-			<theme id="painttheme_strangi_f_040" default="error_theme" name="ZZ0040 {20114,10401}">
-			<group faction="player" paintmod="paintmod_0040" />
-			</theme>
-			<!-- Holy Order Camo 3 -->
-			<theme id="painttheme_strangi_f_041" default="error_theme" name="ZZ0041 {20114,10411}">
-			<group faction="player" paintmod="paintmod_0041" />
-			</theme>
-			<!-- Path to Glory -->
-			<theme id="painttheme_strangi_f_077" default="error_theme" name="ZZ0077 {20114,10771}">
-			<group faction="player" paintmod="paintmod_0077" />
-			</theme>
-			<!-- Digital Templar -->
-			<theme id="painttheme_strangi_f_078" default="error_theme" name="ZZ0078 {20114,10781}">
-			<group faction="player" paintmod="paintmod_0078" />
-			</theme>
-			<!-- Mock Turtle -->
-			<theme id="painttheme_strangi_f_111" default="error_theme" name="ZZ0111 {20114,11111}">
-			<group faction="player" paintmod="paintmod_0111" />
-			</theme>
-		<!-- TRI -->
-			<!-- Trinity Device -->
-			<theme id="painttheme_strangi_f_102" default="error_theme" name="ZZ0102 {20114,11021}">
-			<group faction="player" paintmod="paintmod_0102" />
-			</theme>
-		<!-- BUC / TEM -->
-			<!-- Band of Buccaneers -->
-			<theme id="painttheme_strangi_f_103" default="error_theme" name="ZZ0103 {20114,11031}">
-			<group faction="player" paintmod="paintmod_0103" />
-			</theme>
-			<!-- Tempest Livery -->
-			<theme id="painttheme_strangi_f_104" default="error_theme" name="ZZ0104 {20114,11041}">
-			<group faction="player" paintmod="paintmod_0104" />
-			</theme>
-		<!-- Jagged Amethyst -->
-			<theme id="painttheme_strangi_f_112" default="error_theme" name="ZZ0112 {20114,11121}">
-			<group faction="player" paintmod="paintmod_0112" />
-			</theme>
-	
-	
-	<!-- ALI -->
-		<!-- Alliance Honour -->
-			<theme id="painttheme_strangi_f_011" default="error_theme" name="ZZ0011 {20114,10111}">
-			<group faction="player" paintmod="paintmod_0011" />
-			</theme>
-		<!-- Alliance Camo 1 -->
-			<theme id="painttheme_strangi_f_042" default="error_theme" name="ZZ0042 {20114,10421}">
-			<group faction="player" paintmod="paintmod_0042" />
-			</theme>
-		<!-- Alliance Camo 2 -->
-			<theme id="painttheme_strangi_f_043" default="error_theme" name="ZZ0043 {20114,10431}">
-			<group faction="player" paintmod="paintmod_0043" />
-			</theme>
-		<!-- Alliance Camo 3 -->
-			<theme id="painttheme_strangi_f_044" default="error_theme" name="ZZ0044 {20114,10441}">
-			<group faction="player" paintmod="paintmod_0044" />
-			</theme>
-	
-		
-	<!-- SPLIT -->
-		<!-- CUB / CAB -->
-			<!-- Court Order -->
-			<theme id="painttheme_strangi_f_088" default="error_theme" name="ZZ0088 {20114,10881}">
-			<group faction="player" paintmod="paintmod_0088" />
-			</theme>
-			<!-- Privy Court -->
-			<theme id="painttheme_strangi_f_095" default="error_theme" name="ZZ0095 {20114,10951}">
-			<group faction="player" paintmod="paintmod_0095" />
-			</theme>
-			<!-- Cabal Covert -->
-			<theme id="painttheme_strangi_f_096" default="error_theme" name="ZZ0096 {20114,10961}">
-			<group faction="player" paintmod="paintmod_0096" />
-			</theme>		
-		<!-- FRF -->
-			<!-- Free Spirit -->
-			<theme id="painttheme_strangi_f_089" default="error_theme" name="ZZ0089 {20114,10891}">
-			<group faction="player" paintmod="paintmod_0089" />
-			</theme>
-			<!-- Covert Operation -->
-			<theme id="painttheme_strangi_f_094" default="error_theme" name="ZZ0094 {20114,10941}">
-			<group faction="player" paintmod="paintmod_0094" />
-			</theme>	
-		<!-- ZYA -->
-			<!-- Family Standard -->
-			<theme id="painttheme_strangi_f_090" default="error_theme" name="ZZ0090 {20114,10901}">
-			<group faction="player" paintmod="paintmod_0090" />
-			</theme>
-			<!-- Family Shadow -->
-			<theme id="painttheme_strangi_f_091" default="error_theme" name="ZZ0091 {20114,10911}">
-			<group faction="player" paintmod="paintmod_0091" />
-			</theme>
-			<!-- Family Veil -->
-			<theme id="painttheme_strangi_f_092" default="error_theme" name="ZZ0092 {20114,10921}">
-			<group faction="player" paintmod="paintmod_0092" />
-			</theme>	
-		<!-- FAF -->
-			<!-- Evasive Action -->
-			<theme id="painttheme_strangi_f_093" default="error_theme" name="ZZ0093 {20114,10931}">
-			<group faction="player" paintmod="paintmod_0093" />
-			</theme>
-		<!-- Crystal Thief -->
-			<theme id="painttheme_strangi_f_071" default="error_theme" name="ZZ0071 {20114,10711}">
-			<group faction="player" paintmod="paintmod_0071" />
-			</theme>		
-	
-	
-	<!-- TERRAN -->
-		<!-- TER -->
-			<!-- Solset -->
-			<theme id="painttheme_strangi_f_117" default="error_theme" name="ZZ0117 {20114,11171}">
-			 <group faction="player" paintmod="paintmod_0117" />
-			</theme>
-			<!-- Solset Dapple -->
-			<theme id="painttheme_strangi_f_118" default="error_theme" name="ZZ0118 {20114,11181}">
-			 <group faction="player" paintmod="paintmod_0118" />
-			</theme>
-			<!-- Solset Canopy -->
-			<theme id="painttheme_strangi_f_119" default="error_theme" name="ZZ0119 {20114,11191}">
-			 <group faction="player" paintmod="paintmod_0119" />
-			</theme>
-			<!-- Terracotta -->
-			<theme id="painttheme_strangi_f_107" default="error_theme" name="ZZ0107 {20114,11071}">
-			 <group faction="player" paintmod="paintmod_0107" />
-			</theme>
-		<!-- PIO -->
-			<!-- Utopia -->
-			<theme id="painttheme_strangi_f_122" default="error_theme" name="ZZ0122 {20114,11221}">
-			 <group faction="player" paintmod="paintmod_0122" />
-			</theme>
-			<!-- Azureous Utopia -->
-			<theme id="painttheme_strangi_f_121" default="error_theme" name="ZZ0121 {20114,11211}">
-			 <group faction="player" paintmod="paintmod_0121" />
-			</theme>
-			<!-- Cerulian Utopia -->
-			<theme id="painttheme_strangi_f_120" default="error_theme" name="ZZ0120 {20114,11201}">
-			 <group faction="player" paintmod="paintmod_0120" />
-			</theme>
-			<!-- Bubble Up -->
-			<theme id="painttheme_strangi_f_113" default="error_theme" name="ZZ0113 {20114,11131}">
-			 <group faction="player" paintmod="paintmod_0113" />
-			</theme>
-		<!-- Alautun -->
-			<theme id="painttheme_strangi_f_115" default="error_theme" name="ZZ0115 {20114,11151}">
-			<group faction="player" paintmod="paintmod_0115" />
-			</theme>
-		<!-- Woody Valley -->
-			<theme id="painttheme_strangi_f_084" default="error_theme" name="ZZ0084 {20114,10841}">
-			<group faction="player" paintmod="paintmod_0084" />
-			</theme>
-	
-	
-	<!-- YAK -->
-		<!-- Violaceous -->
-			<theme id="painttheme_strangi_f_123" default="error_theme" name="ZZ0123 {20114,11231}">
-			<group faction="player" paintmod="paintmod_0123" />
-			</theme>
-		<!-- Violaceous Cybershroud -->
-			<theme id="painttheme_strangi_f_124" default="error_theme" name="ZZ0124 {20114,11241}">
-			<group faction="player" paintmod="paintmod_0124" />
-			</theme>
-		<!-- Violaceous Xenomask -->
-			<theme id="painttheme_strangi_f_125" default="error_theme" name="ZZ0125 {20114,11251}">
-			<group faction="player" paintmod="paintmod_0125" />
-			</theme>
-		
-		
-	<!-- VIG -->
-		<!-- Iveshead -->
-			<theme id="painttheme_strangi_f_126" default="error_theme" name="ZZ0126 {20114,11261}">
-			<group faction="player" paintmod="paintmod_0126" />
-			</theme>	
-	<!-- RIP -->
-		<!-- Rustbucket -->
-			<theme id="painttheme_strangi_f_127" default="error_theme" name="ZZ0127 {20114,11271}">
-			<group faction="player" paintmod="paintmod_0127" />
-			</theme>
-	
-	
-	<!-- BOR -->
-		<!-- ??? BORON DEFAULT -->
-			<theme id="painttheme_strangi_f_191" default="error_theme" name="ZZ0191 {20114,11911}">
-			<group faction="player" paintmod="paintmod_0191" />
-			</theme>
-	
-	
-	<!-- MISC -->
-		<!-- Special -->
-			<!-- Foundation X -->
-			<theme id="painttheme_strangi_s_019" default="error_theme" name="ZZ0019 {20114,10191}">
-			<group faction="player" paintmod="paintmod_0019" />
-			</theme>
-			<!-- Obsidian X -->
-			<theme id="painttheme_strangi_s_056" default="error_theme" name="ZZ0056 {20114,10561}">
-			<group faction="player" paintmod="paintmod_0056" />
-			</theme>
-			<!-- Rising Star -->
-			<theme id="painttheme_strangi_s_079" default="error_theme" name="ZZ0079 {20114,10791}">
-			<group faction="player" paintmod="paintmod_0079" />
-			</theme>
-			<!-- LootBoy -->
-			<theme id="painttheme_strangi_s_101" default="error_theme" name="ZZ0101 {20114,11011}">
-			<group faction="player" paintmod="paintmod_0101" />
-			</theme>
-			
-		<!-- Other -->
-			<!-- Shade of Innocence -->
-			<theme id="painttheme_strangi_m_001" default="error_theme" name="ZZ0001 {20114,10011}">
-			<group faction="player" paintmod="paintmod_0001" />
-			</theme>
-			<!-- Origin Unknown -->
-			<theme id="painttheme_strangi_m_008" default="error_theme" name="ZZ0008 {20114,10081}">
-			<group faction="player" paintmod="paintmod_0008" />
-			</theme>
-			<!-- Not Like This -->
-			<theme id="painttheme_strangi_m_015" default="error_theme" name="ZZ0015 {20114,10151}">
-			<group faction="player" paintmod="paintmod_0015" />
-			</theme>
-			<!-- Washout -->
-			<theme id="painttheme_strangi_m_016" default="error_theme" name="ZZ0016 {20114,10161}">
-			<group faction="player" paintmod="paintmod_0016" />
-			</theme>
-			<!-- Black Steel -->
-			<theme id="painttheme_strangi_m_017" default="error_theme" name="ZZ0017 {20114,10171}">
-			<group faction="player" paintmod="paintmod_0017" />
-			</theme>
-			<!-- Grey Steel -->
-			<theme id="painttheme_strangi_m_018" default="error_theme" name="ZZ0018 {20114,10181}">
-			<group faction="player" paintmod="paintmod_0018" />
-			</theme>
-			<!-- Matrix Annihilation -->
-			<theme id="painttheme_strangi_m_020" default="error_theme" name="ZZ0020 {20114,10201}">
-			<group faction="player" paintmod="paintmod_0020" />
-			</theme>
-			<!-- Verbillion -->
-			<theme id="painttheme_strangi_m_021" default="error_theme" name="ZZ0021 {20114,10211}">
-			<group faction="player" paintmod="paintmod_0021" />
-			</theme>
-			<!-- Splatter -->
-			<theme id="painttheme_strangi_m_022" default="error_theme" name="ZZ0022 {20114,10221}">
-			<group faction="player" paintmod="paintmod_0022" />
-			</theme>
-			<!-- Roadkill -->
-			<theme id="painttheme_strangi_m_051" default="error_theme" name="ZZ0051 {20114,10511}">
-			<group faction="player" paintmod="paintmod_0051" />
-			</theme>
-			<!-- Scorched -->
-			<theme id="painttheme_strangi_m_052" default="error_theme" name="ZZ0052 {20114,10521}">
-			<group faction="player" paintmod="paintmod_0052" />
-			</theme>
-			<!-- End of Line -->
-			<theme id="painttheme_strangi_m_053" default="error_theme" name="ZZ0053 {20114,10531}">
-			<group faction="player" paintmod="paintmod_0053" />
-			</theme>
-			<!-- Bzzzzz! -->
-			<theme id="painttheme_strangi_m_054" default="error_theme" name="ZZ0054 {20114,10541}">
-			<group faction="player" paintmod="paintmod_0054" />
-			</theme>
-			<!-- Violence -->
-			<theme id="painttheme_strangi_m_055" default="error_theme" name="ZZ0055 {20114,10551}">
-			<group faction="player" paintmod="paintmod_0055" />
-			</theme>
-			<!-- Legitimate Business -->
-			<theme id="painttheme_strangi_m_057" default="error_theme" name="ZZ0057 {20114,10571}">
-			<group faction="player" paintmod="paintmod_0057" />
-			</theme>
-			<!-- Aldrin -->
-			<theme id="painttheme_strangi_m_058" default="error_theme" name="ZZ0058 {20114,10581}">
-			<group faction="player" paintmod="paintmod_0058" />
-			</theme>
-			<!-- Cold Metal -->
-			<theme id="painttheme_strangi_m_0059" default="error_theme" name="ZZ0059 {20114,10591}">
-			<group faction="player" paintmod="paintmod_0059" />
-			</theme>
-			<!-- Captain Pearle -->
-			<theme id="painttheme_strangi_m_060" default="error_theme" name="ZZ0060 {20114,10601}">
-			<group faction="player" paintmod="paintmod_0060" />
-			</theme>
-			<!-- Corsair's Gambit -->
-			<theme id="painttheme_strangi_m_062" default="error_theme" name="ZZ0062 {20114,10621}">
-			<group faction="player" paintmod="paintmod_0062" />
-			</theme>
-			<!-- Cascade Alpha -->
-			<theme id="painttheme_strangi_m_063" default="error_theme" name="ZZ0063 {20114,10631}">
-			<group faction="player" paintmod="paintmod_0063" />
-			</theme>
-			<!-- Sinister Fume -->
-			<theme id="painttheme_strangi_m_064" default="error_theme" name="ZZ0064 {20114,10641}">
-			<group faction="player" paintmod="paintmod_0064" />
-			</theme>
-			<!-- Silent Sanctuary -->
-			<theme id="painttheme_strangi_m_065" default="error_theme" name="ZZ0065 {20114,10651}">
-			<group faction="player" paintmod="paintmod_0065" />
-			</theme>
-			<!-- Warden -->
-			<theme id="painttheme_strangi_m_066" default="error_theme" name="ZZ0066 {20114,10661}">
-			<group faction="player" paintmod="paintmod_0066" />
-			</theme>
-			<!-- J.B.C. -->
-			<theme id="painttheme_strangi_m_067" default="error_theme" name="ZZ0067 {20114,10671}">
-			<group faction="player" paintmod="paintmod_0067" />
-			</theme>
-			<!-- Extraction -->
-			<theme id="painttheme_strangi_m_068" default="error_theme" name="ZZ0068 {20114,10681}">
-			<group faction="player" paintmod="paintmod_0068" />
-			</theme>
-			<!-- Smokestack -->
-			<theme id="painttheme_strangi_m_069" default="error_theme" name="ZZ0069 {20114,10691}">
-			<group faction="player" paintmod="paintmod_0069" />
-			</theme>
-			<!-- Relic Hunter -->
-			<theme id="painttheme_strangi_m_070" default="error_theme" name="ZZ0070 {20114,10701}">
-			<group faction="player" paintmod="paintmod_0070" />
-			</theme>
-			<!-- Disposal Unit 3 -->
-			<theme id="painttheme_strangi_m_072" default="error_theme" name="ZZ0072 {20114,10721}">
-			<group faction="player" paintmod="paintmod_0072" />
-			</theme>
-			<!-- Woodland Pasture -->
-			<theme id="painttheme_strangi_m_073" default="error_theme" name="ZZ0073 {20114,10731}">
-			<group faction="player" paintmod="paintmod_0073" />
-			</theme>
-			<!-- Kilroy -->
-			<theme id="painttheme_strangi_m_081" default="error_theme" name="ZZ0081 {20114,10811}">
-			<group faction="player" paintmod="paintmod_0081" />
-			</theme>
-			<!-- Distinct Past -->
-			<theme id="painttheme_strangi_m_082" default="error_theme" name="ZZ0082 {20114,10821}">
-			<group faction="player" paintmod="paintmod_0082" />
-			</theme>
-			<!-- Worm God -->
-			<theme id="painttheme_strangi_m_083" default="error_theme" name="ZZ0083 {20114,10831}">
-			<group faction="player" paintmod="paintmod_0083" />
-			</theme>
-			<!-- FHD040 -->
-			<theme id="painttheme_strangi_m_086" default="error_theme" name="ZZ0086 {20114,10861}">
-			<group faction="player" paintmod="paintmod_0086" />
-			</theme>
-			<!-- Snakebite -->
-			<theme id="painttheme_strangi_m_087" default="error_theme" name="ZZ0087 {20114,10871}">
-			<group faction="player" paintmod="paintmod_0087" />
-			</theme>
-			<!-- Neon Dream -->
-			<theme id="painttheme_strangi_m_106" default="error_theme" name="ZZ0106 {20114,11061}">
-			<group faction="player" paintmod="paintmod_0106" />
-			</theme>
-			<!-- Jade -->
-			<theme id="painttheme_strangi_m_108" default="error_theme" name="ZZ0108 {20114,11081}">
-			<group faction="player" paintmod="paintmod_0108" />
-			</theme>
-			<!-- Ocean -->
-			<theme id="painttheme_strangi_m_0109" default="error_theme" name="ZZ0109 {20114,11091}">
-			<group faction="player" paintmod="paintmod_0109" />
-			</theme>
-			<!-- Canary -->
-			<theme id="painttheme_strangi_m_110" default="error_theme" name="ZZ0110 {20114,11101}">
-			<group faction="player" paintmod="paintmod_0110" />
-			</theme>
-			<!-- Alpha Zone -->
-			<theme id="painttheme_strangi_m_114" default="error_theme" name="ZZ0114 {20114,11141}">
-			<group faction="player" paintmod="paintmod_0114" />
-			</theme>
-			<!-- Verdant -->
-			<theme id="painttheme_strangi_m_116" default="error_theme" name="ZZ0116 {20114,11161}">
-			<group faction="player" paintmod="paintmod_0116" />
-			</theme>
+		</theme>
 
-			<!-- 6.0 - batch4 - paint 128-190 -->
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_128" default="error_theme" name="ZZ0128 {20114,11281}">
+
+		<!-- PARANID -->
+		<!-- PAR -->
+		<!-- Godrealm Pride -->
+		<theme id="painttheme_strangi_f_009" default="error_theme"
+			name="ZZ0009 {20114,10091}">
+			<group faction="player" paintmod="paintmod_0009" />
+		</theme>
+		<!-- Godrealm Camo 1 -->
+		<theme id="painttheme_strangi_f_036" default="error_theme"
+			name="ZZ0036 {20114,10361}">
+			<group faction="player" paintmod="paintmod_0036" />
+		</theme>
+		<!-- Godrealm Camo 2 -->
+		<theme id="painttheme_strangi_f_037" default="error_theme"
+			name="ZZ0037 {20114,10371}">
+			<group faction="player" paintmod="paintmod_0037" />
+		</theme>
+		<!-- Godrealm Camo 3 -->
+		<theme id="painttheme_strangi_f_038" default="error_theme"
+			name="ZZ0038 {20114,10381}">
+			<group faction="player" paintmod="paintmod_0038" />
+		</theme>
+		<!-- Leap of Faith -->
+		<theme id="painttheme_strangi_f_085" default="error_theme"
+			name="ZZ0085 {20114,10851}">
+			<group faction="player" paintmod="paintmod_0085" />
+		</theme>
+		<!-- HOP -->
+		<!-- Order Wrath -->
+		<theme id="painttheme_strangi_f_010" default="error_theme"
+			name="ZZ0010 {20114,10101}">
+			<group faction="player" paintmod="paintmod_0010" />
+		</theme>
+		<!-- Holy Order Camo 1 -->
+		<theme id="painttheme_strangi_f_039" default="error_theme"
+			name="ZZ0039 {20114,10391}">
+			<group faction="player" paintmod="paintmod_0039" />
+		</theme>
+		<!-- Holy Order Camo 2 -->
+		<theme id="painttheme_strangi_f_040" default="error_theme"
+			name="ZZ0040 {20114,10401}">
+			<group faction="player" paintmod="paintmod_0040" />
+		</theme>
+		<!-- Holy Order Camo 3 -->
+		<theme id="painttheme_strangi_f_041" default="error_theme"
+			name="ZZ0041 {20114,10411}">
+			<group faction="player" paintmod="paintmod_0041" />
+		</theme>
+		<!-- Path to Glory -->
+		<theme id="painttheme_strangi_f_077" default="error_theme"
+			name="ZZ0077 {20114,10771}">
+			<group faction="player" paintmod="paintmod_0077" />
+		</theme>
+		<!-- Digital Templar -->
+		<theme id="painttheme_strangi_f_078" default="error_theme"
+			name="ZZ0078 {20114,10781}">
+			<group faction="player" paintmod="paintmod_0078" />
+		</theme>
+		<!-- Mock Turtle -->
+		<theme id="painttheme_strangi_f_111" default="error_theme"
+			name="ZZ0111 {20114,11111}">
+			<group faction="player" paintmod="paintmod_0111" />
+		</theme>
+		<!-- TRI -->
+		<!-- Trinity Device -->
+		<theme id="painttheme_strangi_f_102" default="error_theme"
+			name="ZZ0102 {20114,11021}">
+			<group faction="player" paintmod="paintmod_0102" />
+		</theme>
+		<!-- BUC / TEM -->
+		<!-- Band of Buccaneers -->
+		<theme id="painttheme_strangi_f_103" default="error_theme"
+			name="ZZ0103 {20114,11031}">
+			<group faction="player" paintmod="paintmod_0103" />
+		</theme>
+		<!-- Tempest Livery -->
+		<theme id="painttheme_strangi_f_104" default="error_theme"
+			name="ZZ0104 {20114,11041}">
+			<group faction="player" paintmod="paintmod_0104" />
+		</theme>
+		<!-- Jagged Amethyst -->
+		<theme id="painttheme_strangi_f_112" default="error_theme"
+			name="ZZ0112 {20114,11121}">
+			<group faction="player" paintmod="paintmod_0112" />
+		</theme>
+
+
+		<!-- ALI -->
+		<!-- Alliance Honour -->
+		<theme id="painttheme_strangi_f_011" default="error_theme"
+			name="ZZ0011 {20114,10111}">
+			<group faction="player" paintmod="paintmod_0011" />
+		</theme>
+		<!-- Alliance Camo 1 -->
+		<theme id="painttheme_strangi_f_042" default="error_theme"
+			name="ZZ0042 {20114,10421}">
+			<group faction="player" paintmod="paintmod_0042" />
+		</theme>
+		<!-- Alliance Camo 2 -->
+		<theme id="painttheme_strangi_f_043" default="error_theme"
+			name="ZZ0043 {20114,10431}">
+			<group faction="player" paintmod="paintmod_0043" />
+		</theme>
+		<!-- Alliance Camo 3 -->
+		<theme id="painttheme_strangi_f_044" default="error_theme"
+			name="ZZ0044 {20114,10441}">
+			<group faction="player" paintmod="paintmod_0044" />
+		</theme>
+
+
+		<!-- SPLIT -->
+		<!-- CUB / CAB -->
+		<!-- Court Order -->
+		<theme id="painttheme_strangi_f_088" default="error_theme"
+			name="ZZ0088 {20114,10881}">
+			<group faction="player" paintmod="paintmod_0088" />
+		</theme>
+		<!-- Privy Court -->
+		<theme id="painttheme_strangi_f_095" default="error_theme"
+			name="ZZ0095 {20114,10951}">
+			<group faction="player" paintmod="paintmod_0095" />
+		</theme>
+		<!-- Cabal Covert -->
+		<theme id="painttheme_strangi_f_096" default="error_theme"
+			name="ZZ0096 {20114,10961}">
+			<group faction="player" paintmod="paintmod_0096" />
+		</theme>
+		<!-- FRF -->
+		<!-- Free Spirit -->
+		<theme id="painttheme_strangi_f_089" default="error_theme"
+			name="ZZ0089 {20114,10891}">
+			<group faction="player" paintmod="paintmod_0089" />
+		</theme>
+		<!-- Covert Operation -->
+		<theme id="painttheme_strangi_f_094" default="error_theme"
+			name="ZZ0094 {20114,10941}">
+			<group faction="player" paintmod="paintmod_0094" />
+		</theme>
+		<!-- ZYA -->
+		<!-- Family Standard -->
+		<theme id="painttheme_strangi_f_090" default="error_theme"
+			name="ZZ0090 {20114,10901}">
+			<group faction="player" paintmod="paintmod_0090" />
+		</theme>
+		<!-- Family Shadow -->
+		<theme id="painttheme_strangi_f_091" default="error_theme"
+			name="ZZ0091 {20114,10911}">
+			<group faction="player" paintmod="paintmod_0091" />
+		</theme>
+		<!-- Family Veil -->
+		<theme id="painttheme_strangi_f_092" default="error_theme"
+			name="ZZ0092 {20114,10921}">
+			<group faction="player" paintmod="paintmod_0092" />
+		</theme>
+		<!-- FAF -->
+		<!-- Evasive Action -->
+		<theme id="painttheme_strangi_f_093" default="error_theme"
+			name="ZZ0093 {20114,10931}">
+			<group faction="player" paintmod="paintmod_0093" />
+		</theme>
+		<!-- Crystal Thief -->
+		<theme id="painttheme_strangi_f_071" default="error_theme"
+			name="ZZ0071 {20114,10711}">
+			<group faction="player" paintmod="paintmod_0071" />
+		</theme>
+
+
+		<!-- TERRAN -->
+		<!-- TER -->
+		<!-- Solset -->
+		<theme id="painttheme_strangi_f_117" default="error_theme"
+			name="ZZ0117 {20114,11171}">
+			<group faction="player" paintmod="paintmod_0117" />
+		</theme>
+		<!-- Solset Dapple -->
+		<theme id="painttheme_strangi_f_118" default="error_theme"
+			name="ZZ0118 {20114,11181}">
+			<group faction="player" paintmod="paintmod_0118" />
+		</theme>
+		<!-- Solset Canopy -->
+		<theme id="painttheme_strangi_f_119" default="error_theme"
+			name="ZZ0119 {20114,11191}">
+			<group faction="player" paintmod="paintmod_0119" />
+		</theme>
+		<!-- Terracotta -->
+		<theme id="painttheme_strangi_f_107" default="error_theme"
+			name="ZZ0107 {20114,11071}">
+			<group faction="player" paintmod="paintmod_0107" />
+		</theme>
+		<!-- PIO -->
+		<!-- Utopia -->
+		<theme id="painttheme_strangi_f_122" default="error_theme"
+			name="ZZ0122 {20114,11221}">
+			<group faction="player" paintmod="paintmod_0122" />
+		</theme>
+		<!-- Azureous Utopia -->
+		<theme id="painttheme_strangi_f_121" default="error_theme"
+			name="ZZ0121 {20114,11211}">
+			<group faction="player" paintmod="paintmod_0121" />
+		</theme>
+		<!-- Cerulian Utopia -->
+		<theme id="painttheme_strangi_f_120" default="error_theme"
+			name="ZZ0120 {20114,11201}">
+			<group faction="player" paintmod="paintmod_0120" />
+		</theme>
+		<!-- Bubble Up -->
+		<theme id="painttheme_strangi_f_113" default="error_theme"
+			name="ZZ0113 {20114,11131}">
+			<group faction="player" paintmod="paintmod_0113" />
+		</theme>
+		<!-- Alautun -->
+		<theme id="painttheme_strangi_f_115" default="error_theme"
+			name="ZZ0115 {20114,11151}">
+			<group faction="player" paintmod="paintmod_0115" />
+		</theme>
+		<!-- Woody Valley -->
+		<theme id="painttheme_strangi_f_084" default="error_theme"
+			name="ZZ0084 {20114,10841}">
+			<group faction="player" paintmod="paintmod_0084" />
+		</theme>
+
+
+		<!-- YAK -->
+		<!-- Violaceous -->
+		<theme id="painttheme_strangi_f_123" default="error_theme"
+			name="ZZ0123 {20114,11231}">
+			<group faction="player" paintmod="paintmod_0123" />
+		</theme>
+		<!-- Violaceous Cybershroud -->
+		<theme id="painttheme_strangi_f_124" default="error_theme"
+			name="ZZ0124 {20114,11241}">
+			<group faction="player" paintmod="paintmod_0124" />
+		</theme>
+		<!-- Violaceous Xenomask -->
+		<theme id="painttheme_strangi_f_125" default="error_theme"
+			name="ZZ0125 {20114,11251}">
+			<group faction="player" paintmod="paintmod_0125" />
+		</theme>
+
+
+		<!-- VIG -->
+		<!-- Iveshead -->
+		<theme id="painttheme_strangi_f_126" default="error_theme"
+			name="ZZ0126 {20114,11261}">
+			<group faction="player" paintmod="paintmod_0126" />
+		</theme>
+		<!-- RIP -->
+		<!-- Rustbucket -->
+		<theme id="painttheme_strangi_f_127" default="error_theme"
+			name="ZZ0127 {20114,11271}">
+			<group faction="player" paintmod="paintmod_0127" />
+		</theme>
+
+
+		<!-- BOR -->
+		<!-- ??? BORON DEFAULT -->
+		<theme id="painttheme_strangi_f_191" default="error_theme"
+			name="ZZ0191 {20114,11911}">
+			<group faction="player" paintmod="paintmod_0191" />
+		</theme>
+
+
+		<!-- MISC -->
+		<!-- Special -->
+		<!-- Foundation X -->
+		<theme id="painttheme_strangi_s_019" default="error_theme"
+			name="ZZ0019 {20114,10191}">
+			<group faction="player" paintmod="paintmod_0019" />
+		</theme>
+		<!-- Obsidian X -->
+		<theme id="painttheme_strangi_s_056" default="error_theme"
+			name="ZZ0056 {20114,10561}">
+			<group faction="player" paintmod="paintmod_0056" />
+		</theme>
+		<!-- Rising Star -->
+		<theme id="painttheme_strangi_s_079" default="error_theme"
+			name="ZZ0079 {20114,10791}">
+			<group faction="player" paintmod="paintmod_0079" />
+		</theme>
+		<!-- LootBoy -->
+		<theme id="painttheme_strangi_s_101" default="error_theme"
+			name="ZZ0101 {20114,11011}">
+			<group faction="player" paintmod="paintmod_0101" />
+		</theme>
+
+		<!-- Other -->
+		<!-- Shade of Innocence -->
+		<theme id="painttheme_strangi_m_001" default="error_theme"
+			name="ZZ0001 {20114,10011}">
+			<group faction="player" paintmod="paintmod_0001" />
+		</theme>
+		<!-- Origin Unknown -->
+		<theme id="painttheme_strangi_m_008" default="error_theme"
+			name="ZZ0008 {20114,10081}">
+			<group faction="player" paintmod="paintmod_0008" />
+		</theme>
+		<!-- Not Like This -->
+		<theme id="painttheme_strangi_m_015" default="error_theme"
+			name="ZZ0015 {20114,10151}">
+			<group faction="player" paintmod="paintmod_0015" />
+		</theme>
+		<!-- Washout -->
+		<theme id="painttheme_strangi_m_016" default="error_theme"
+			name="ZZ0016 {20114,10161}">
+			<group faction="player" paintmod="paintmod_0016" />
+		</theme>
+		<!-- Black Steel -->
+		<theme id="painttheme_strangi_m_017" default="error_theme"
+			name="ZZ0017 {20114,10171}">
+			<group faction="player" paintmod="paintmod_0017" />
+		</theme>
+		<!-- Grey Steel -->
+		<theme id="painttheme_strangi_m_018" default="error_theme"
+			name="ZZ0018 {20114,10181}">
+			<group faction="player" paintmod="paintmod_0018" />
+		</theme>
+		<!-- Matrix Annihilation -->
+		<theme id="painttheme_strangi_m_020" default="error_theme"
+			name="ZZ0020 {20114,10201}">
+			<group faction="player" paintmod="paintmod_0020" />
+		</theme>
+		<!-- Verbillion -->
+		<theme id="painttheme_strangi_m_021" default="error_theme"
+			name="ZZ0021 {20114,10211}">
+			<group faction="player" paintmod="paintmod_0021" />
+		</theme>
+		<!-- Splatter -->
+		<theme id="painttheme_strangi_m_022" default="error_theme"
+			name="ZZ0022 {20114,10221}">
+			<group faction="player" paintmod="paintmod_0022" />
+		</theme>
+		<!-- Roadkill -->
+		<theme id="painttheme_strangi_m_051" default="error_theme"
+			name="ZZ0051 {20114,10511}">
+			<group faction="player" paintmod="paintmod_0051" />
+		</theme>
+		<!-- Scorched -->
+		<theme id="painttheme_strangi_m_052" default="error_theme"
+			name="ZZ0052 {20114,10521}">
+			<group faction="player" paintmod="paintmod_0052" />
+		</theme>
+		<!-- End of Line -->
+		<theme id="painttheme_strangi_m_053" default="error_theme"
+			name="ZZ0053 {20114,10531}">
+			<group faction="player" paintmod="paintmod_0053" />
+		</theme>
+		<!-- Bzzzzz! -->
+		<theme id="painttheme_strangi_m_054" default="error_theme"
+			name="ZZ0054 {20114,10541}">
+			<group faction="player" paintmod="paintmod_0054" />
+		</theme>
+		<!-- Violence -->
+		<theme id="painttheme_strangi_m_055" default="error_theme"
+			name="ZZ0055 {20114,10551}">
+			<group faction="player" paintmod="paintmod_0055" />
+		</theme>
+		<!-- Legitimate Business -->
+		<theme id="painttheme_strangi_m_057" default="error_theme"
+			name="ZZ0057 {20114,10571}">
+			<group faction="player" paintmod="paintmod_0057" />
+		</theme>
+		<!-- Aldrin -->
+		<theme id="painttheme_strangi_m_058" default="error_theme"
+			name="ZZ0058 {20114,10581}">
+			<group faction="player" paintmod="paintmod_0058" />
+		</theme>
+		<!-- Cold Metal -->
+		<theme id="painttheme_strangi_m_0059" default="error_theme"
+			name="ZZ0059 {20114,10591}">
+			<group faction="player" paintmod="paintmod_0059" />
+		</theme>
+		<!-- Captain Pearle -->
+		<theme id="painttheme_strangi_m_060" default="error_theme"
+			name="ZZ0060 {20114,10601}">
+			<group faction="player" paintmod="paintmod_0060" />
+		</theme>
+		<!-- Corsair's Gambit -->
+		<theme id="painttheme_strangi_m_062" default="error_theme"
+			name="ZZ0062 {20114,10621}">
+			<group faction="player" paintmod="paintmod_0062" />
+		</theme>
+		<!-- Cascade Alpha -->
+		<theme id="painttheme_strangi_m_063" default="error_theme"
+			name="ZZ0063 {20114,10631}">
+			<group faction="player" paintmod="paintmod_0063" />
+		</theme>
+		<!-- Sinister Fume -->
+		<theme id="painttheme_strangi_m_064" default="error_theme"
+			name="ZZ0064 {20114,10641}">
+			<group faction="player" paintmod="paintmod_0064" />
+		</theme>
+		<!-- Silent Sanctuary -->
+		<theme id="painttheme_strangi_m_065" default="error_theme"
+			name="ZZ0065 {20114,10651}">
+			<group faction="player" paintmod="paintmod_0065" />
+		</theme>
+		<!-- Warden -->
+		<theme id="painttheme_strangi_m_066" default="error_theme"
+			name="ZZ0066 {20114,10661}">
+			<group faction="player" paintmod="paintmod_0066" />
+		</theme>
+		<!-- J.B.C. -->
+		<theme id="painttheme_strangi_m_067" default="error_theme"
+			name="ZZ0067 {20114,10671}">
+			<group faction="player" paintmod="paintmod_0067" />
+		</theme>
+		<!-- Extraction -->
+		<theme id="painttheme_strangi_m_068" default="error_theme"
+			name="ZZ0068 {20114,10681}">
+			<group faction="player" paintmod="paintmod_0068" />
+		</theme>
+		<!-- Smokestack -->
+		<theme id="painttheme_strangi_m_069" default="error_theme"
+			name="ZZ0069 {20114,10691}">
+			<group faction="player" paintmod="paintmod_0069" />
+		</theme>
+		<!-- Relic Hunter -->
+		<theme id="painttheme_strangi_m_070" default="error_theme"
+			name="ZZ0070 {20114,10701}">
+			<group faction="player" paintmod="paintmod_0070" />
+		</theme>
+		<!-- Disposal Unit 3 -->
+		<theme id="painttheme_strangi_m_072" default="error_theme"
+			name="ZZ0072 {20114,10721}">
+			<group faction="player" paintmod="paintmod_0072" />
+		</theme>
+		<!-- Woodland Pasture -->
+		<theme id="painttheme_strangi_m_073" default="error_theme"
+			name="ZZ0073 {20114,10731}">
+			<group faction="player" paintmod="paintmod_0073" />
+		</theme>
+		<!-- Kilroy -->
+		<theme id="painttheme_strangi_m_081" default="error_theme"
+			name="ZZ0081 {20114,10811}">
+			<group faction="player" paintmod="paintmod_0081" />
+		</theme>
+		<!-- Distinct Past -->
+		<theme id="painttheme_strangi_m_082" default="error_theme"
+			name="ZZ0082 {20114,10821}">
+			<group faction="player" paintmod="paintmod_0082" />
+		</theme>
+		<!-- Worm God -->
+		<theme id="painttheme_strangi_m_083" default="error_theme"
+			name="ZZ0083 {20114,10831}">
+			<group faction="player" paintmod="paintmod_0083" />
+		</theme>
+		<!-- FHD040 -->
+		<theme id="painttheme_strangi_m_086" default="error_theme"
+			name="ZZ0086 {20114,10861}">
+			<group faction="player" paintmod="paintmod_0086" />
+		</theme>
+		<!-- Snakebite -->
+		<theme id="painttheme_strangi_m_087" default="error_theme"
+			name="ZZ0087 {20114,10871}">
+			<group faction="player" paintmod="paintmod_0087" />
+		</theme>
+		<!-- Neon Dream -->
+		<theme id="painttheme_strangi_m_106" default="error_theme"
+			name="ZZ0106 {20114,11061}">
+			<group faction="player" paintmod="paintmod_0106" />
+		</theme>
+		<!-- Jade -->
+		<theme id="painttheme_strangi_m_108" default="error_theme"
+			name="ZZ0108 {20114,11081}">
+			<group faction="player" paintmod="paintmod_0108" />
+		</theme>
+		<!-- Ocean -->
+		<theme id="painttheme_strangi_m_0109" default="error_theme"
+			name="ZZ0109 {20114,11091}">
+			<group faction="player" paintmod="paintmod_0109" />
+		</theme>
+		<!-- Canary -->
+		<theme id="painttheme_strangi_m_110" default="error_theme"
+			name="ZZ0110 {20114,11101}">
+			<group faction="player" paintmod="paintmod_0110" />
+		</theme>
+		<!-- Alpha Zone -->
+		<theme id="painttheme_strangi_m_114" default="error_theme"
+			name="ZZ0114 {20114,11141}">
+			<group faction="player" paintmod="paintmod_0114" />
+		</theme>
+		<!-- Verdant -->
+		<theme id="painttheme_strangi_m_116" default="error_theme"
+			name="ZZ0116 {20114,11161}">
+			<group faction="player" paintmod="paintmod_0116" />
+		</theme>
+
+		<!-- 6.0 - batch4 - paint 128-190 -->
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_128" default="error_theme"
+			name="ZZ0128 {20114,11281}">
 			<group faction="player" paintmod="paintmod_0128" />
-			</theme>	
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_129" default="error_theme" name="ZZ0129 {20114,11291}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_129" default="error_theme"
+			name="ZZ0129 {20114,11291}">
 			<group faction="player" paintmod="paintmod_0129" />
-			</theme>	
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_130" default="error_theme" name="ZZ0130 {20114,11301}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_130" default="error_theme"
+			name="ZZ0130 {20114,11301}">
 			<group faction="player" paintmod="paintmod_0130" />
-			</theme>	
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_131" default="error_theme" name="ZZ0131 {20114,11311}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_131" default="error_theme"
+			name="ZZ0131 {20114,11311}">
 			<group faction="player" paintmod="paintmod_0131" />
-			</theme>	
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_132" default="error_theme" name="ZZ0132 {20114,11321}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_132" default="error_theme"
+			name="ZZ0132 {20114,11321}">
 			<group faction="player" paintmod="paintmod_0132" />
-			</theme>	
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_133" default="error_theme" name="ZZ0133 {20114,11331}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_133" default="error_theme"
+			name="ZZ0133 {20114,11331}">
 			<group faction="player" paintmod="paintmod_0133" />
-			</theme>	
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_134" default="error_theme" name="ZZ0134 {20114,11341}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_134" default="error_theme"
+			name="ZZ0134 {20114,11341}">
 			<group faction="player" paintmod="paintmod_0134" />
-			</theme>	
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_135" default="error_theme" name="ZZ0135 {20114,11352}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_135" default="error_theme"
+			name="ZZ0135 {20114,11352}">
 			<group faction="player" paintmod="paintmod_0135" />
-			</theme>	
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_136" default="error_theme" name="ZZ0136 {20114,11361}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_136" default="error_theme"
+			name="ZZ0136 {20114,11361}">
 			<group faction="player" paintmod="paintmod_0136" />
-			</theme>	
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_137" default="error_theme" name="ZZ0137 {20114,11371}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_137" default="error_theme"
+			name="ZZ0137 {20114,11371}">
 			<group faction="player" paintmod="paintmod_0137" />
-			</theme>			
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_138" default="error_theme" name="ZZ0138 {20114,11381}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_138" default="error_theme"
+			name="ZZ0138 {20114,11381}">
 			<group faction="player" paintmod="paintmod_0138" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_139" default="error_theme" name="ZZ0139 {20114,11391}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_139" default="error_theme"
+			name="ZZ0139 {20114,11391}">
 			<group faction="player" paintmod="paintmod_0139" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_140" default="error_theme" name="ZZ0140 {20114,11401}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_140" default="error_theme"
+			name="ZZ0140 {20114,11401}">
 			<group faction="player" paintmod="paintmod_0140" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_141" default="error_theme" name="ZZ0141 {20114,11411}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_141" default="error_theme"
+			name="ZZ0141 {20114,11411}">
 			<group faction="player" paintmod="paintmod_0141" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_142" default="error_theme" name="ZZ0142 {20114,11421}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_142" default="error_theme"
+			name="ZZ0142 {20114,11421}">
 			<group faction="player" paintmod="paintmod_0142" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_143" default="error_theme" name="ZZ0143 {20114,11431}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_143" default="error_theme"
+			name="ZZ0143 {20114,11431}">
 			<group faction="player" paintmod="paintmod_0143" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_144" default="error_theme" name="ZZ0144 {20114,11441}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_144" default="error_theme"
+			name="ZZ0144 {20114,11441}">
 			<group faction="player" paintmod="paintmod_0144" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_145" default="error_theme" name="ZZ0145 {20114,11451}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_145" default="error_theme"
+			name="ZZ0145 {20114,11451}">
 			<group faction="player" paintmod="paintmod_0145" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_146" default="error_theme" name="ZZ0146 {20114,11461}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_146" default="error_theme"
+			name="ZZ0146 {20114,11461}">
 			<group faction="player" paintmod="paintmod_0146" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_147" default="error_theme" name="ZZ0147 {20114,11471}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_147" default="error_theme"
+			name="ZZ0147 {20114,11471}">
 			<group faction="player" paintmod="paintmod_0147" />
-			</theme>			
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_148" default="error_theme" name="ZZ0148 {20114,11481}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_148" default="error_theme"
+			name="ZZ0148 {20114,11481}">
 			<group faction="player" paintmod="paintmod_0148" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_149" default="error_theme" name="ZZ0149 {20114,11491}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_149" default="error_theme"
+			name="ZZ0149 {20114,11491}">
 			<group faction="player" paintmod="paintmod_0149" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_150" default="error_theme" name="ZZ0150 {20114,11501}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_150" default="error_theme"
+			name="ZZ0150 {20114,11501}">
 			<group faction="player" paintmod="paintmod_0150" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_151" default="error_theme" name="ZZ0151 {20114,11511}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_151" default="error_theme"
+			name="ZZ0151 {20114,11511}">
 			<group faction="player" paintmod="paintmod_0151" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_152" default="error_theme" name="ZZ0152 {20114,11521}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_152" default="error_theme"
+			name="ZZ0152 {20114,11521}">
 			<group faction="player" paintmod="paintmod_0152" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_153" default="error_theme" name="ZZ0153 {20114,11531}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_153" default="error_theme"
+			name="ZZ0153 {20114,11531}">
 			<group faction="player" paintmod="paintmod_0153" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_154" default="error_theme" name="ZZ0154 {20114,11541}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_154" default="error_theme"
+			name="ZZ0154 {20114,11541}">
 			<group faction="player" paintmod="paintmod_0154" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_155" default="error_theme" name="ZZ0155 {20114,11551}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_155" default="error_theme"
+			name="ZZ0155 {20114,11551}">
 			<group faction="player" paintmod="paintmod_0155" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_156" default="error_theme" name="ZZ0156 {20114,11561}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_156" default="error_theme"
+			name="ZZ0156 {20114,11561}">
 			<group faction="player" paintmod="paintmod_0156" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_157" default="error_theme" name="ZZ0157 {20114,11571}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_157" default="error_theme"
+			name="ZZ0157 {20114,11571}">
 			<group faction="player" paintmod="paintmod_0157" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_158" default="error_theme" name="ZZ0158 {20114,11581}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_158" default="error_theme"
+			name="ZZ0158 {20114,11581}">
 			<group faction="player" paintmod="paintmod_0147" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_159" default="error_theme" name="ZZ0159 {20114,11591}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_159" default="error_theme"
+			name="ZZ0159 {20114,11591}">
 			<group faction="player" paintmod="paintmod_0159" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_160" default="error_theme" name="ZZ0160 {20114,11601}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_160" default="error_theme"
+			name="ZZ0160 {20114,11601}">
 			<group faction="player" paintmod="paintmod_0160" />
-			</theme>				
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_161" default="error_theme" name="ZZ0161 {20114,11611}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_161" default="error_theme"
+			name="ZZ0161 {20114,11611}">
 			<group faction="player" paintmod="paintmod_0161" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_162" default="error_theme" name="ZZ0162 {20114,11621}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_162" default="error_theme"
+			name="ZZ0162 {20114,11621}">
 			<group faction="player" paintmod="paintmod_0162" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_163" default="error_theme" name="ZZ0163 {20114,11631}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_163" default="error_theme"
+			name="ZZ0163 {20114,11631}">
 			<group faction="player" paintmod="paintmod_0163" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_164" default="error_theme" name="ZZ0164 {20114,11641}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_164" default="error_theme"
+			name="ZZ0164 {20114,11641}">
 			<group faction="player" paintmod="paintmod_0164" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_165" default="error_theme" name="ZZ0165 {20114,11651}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_165" default="error_theme"
+			name="ZZ0165 {20114,11651}">
 			<group faction="player" paintmod="paintmod_0165" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_166" default="error_theme" name="ZZ0166 {20114,11661}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_166" default="error_theme"
+			name="ZZ0166 {20114,11661}">
 			<group faction="player" paintmod="paintmod_0166" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_167" default="error_theme" name="ZZ0167 {20114,11671}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_167" default="error_theme"
+			name="ZZ0167 {20114,11671}">
 			<group faction="player" paintmod="paintmod_0167" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_168" default="error_theme" name="ZZ0168 {20114,11681}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_168" default="error_theme"
+			name="ZZ0168 {20114,11681}">
 			<group faction="player" paintmod="paintmod_0168" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_169" default="error_theme" name="ZZ0169 {20114,11691}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_169" default="error_theme"
+			name="ZZ0169 {20114,11691}">
 			<group faction="player" paintmod="paintmod_0169" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_170" default="error_theme" name="ZZ0170 {20114,11701}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_170" default="error_theme"
+			name="ZZ0170 {20114,11701}">
 			<group faction="player" paintmod="paintmod_0170" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_171" default="error_theme" name="ZZ0171 {20114,11711}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_171" default="error_theme"
+			name="ZZ0171 {20114,11711}">
 			<group faction="player" paintmod="paintmod_0171" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_172" default="error_theme" name="ZZ0172 {20114,11721}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_172" default="error_theme"
+			name="ZZ0172 {20114,11721}">
 			<group faction="player" paintmod="paintmod_0172" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_173" default="error_theme" name="ZZ0173 {20114,11731}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_173" default="error_theme"
+			name="ZZ0173 {20114,11731}">
 			<group faction="player" paintmod="paintmod_0173" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_174" default="error_theme" name="ZZ0174 {20114,11741}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_174" default="error_theme"
+			name="ZZ0174 {20114,11741}">
 			<group faction="player" paintmod="paintmod_0174" />
-			</theme>			
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_175" default="error_theme" name="ZZ0175 {20114,11751}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_175" default="error_theme"
+			name="ZZ0175 {20114,11751}">
 			<group faction="player" paintmod="paintmod_0175" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_176" default="error_theme" name="ZZ0176 {20114,11761}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_176" default="error_theme"
+			name="ZZ0176 {20114,11761}">
 			<group faction="player" paintmod="paintmod_0176" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_177" default="error_theme" name="ZZ0177 {20114,11771}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_177" default="error_theme"
+			name="ZZ0177 {20114,11771}">
 			<group faction="player" paintmod="paintmod_0177" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_178" default="error_theme" name="ZZ0178 {20114,11781}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_178" default="error_theme"
+			name="ZZ0178 {20114,11781}">
 			<group faction="player" paintmod="paintmod_0178" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_179" default="error_theme" name="ZZ0179 {20114,11791}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_179" default="error_theme"
+			name="ZZ0179 {20114,11791}">
 			<group faction="player" paintmod="paintmod_0179" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_180" default="error_theme" name="ZZ0180 {20114,11801}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_180" default="error_theme"
+			name="ZZ0180 {20114,11801}">
 			<group faction="player" paintmod="paintmod_0180" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_181" default="error_theme" name="ZZ0181 {20114,11811}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_181" default="error_theme"
+			name="ZZ0181 {20114,11811}">
 			<group faction="player" paintmod="paintmod_0181" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_182" default="error_theme" name="ZZ0182 {20114,11821}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_182" default="error_theme"
+			name="ZZ0182 {20114,11821}">
 			<group faction="player" paintmod="paintmod_0182" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_183" default="error_theme" name="ZZ0183 {20114,11831}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_183" default="error_theme"
+			name="ZZ0183 {20114,11831}">
 			<group faction="player" paintmod="paintmod_0183" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_184" default="error_theme" name="ZZ0184 {20114,11841}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_184" default="error_theme"
+			name="ZZ0184 {20114,11841}">
 			<group faction="player" paintmod="paintmod_0184" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_185" default="error_theme" name="ZZ0185 {20114,11851}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_185" default="error_theme"
+			name="ZZ0185 {20114,11851}">
 			<group faction="player" paintmod="paintmod_0185" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_186" default="error_theme" name="ZZ0186 {20114,11861}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_186" default="error_theme"
+			name="ZZ0186 {20114,11861}">
 			<group faction="player" paintmod="paintmod_0186" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_187" default="error_theme" name="ZZ0187 {20114,11871}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_187" default="error_theme"
+			name="ZZ0187 {20114,11871}">
 			<group faction="player" paintmod="paintmod_0187" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_188" default="error_theme" name="ZZ0188 {20114,11881}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_188" default="error_theme"
+			name="ZZ0188 {20114,11881}">
 			<group faction="player" paintmod="paintmod_0188" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_189" default="error_theme" name="ZZ0189 {20114,11891}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_189" default="error_theme"
+			name="ZZ0189 {20114,11891}">
 			<group faction="player" paintmod="paintmod_0189" />
-			</theme>
-			<!-- ??? -->
-			<theme id="painttheme_strangi_m_190" default="error_theme" name="ZZ0190 {20114,11901}">
+		</theme>
+		<!-- ??? -->
+		<theme id="painttheme_strangi_m_190" default="error_theme"
+			name="ZZ0190 {20114,11901}">
 			<group faction="player" paintmod="paintmod_0190" />
-			</theme>
-			
-			
-			
-		
-	
-  </add> 
+		</theme>
+
+
+	</add>
 </diff>
