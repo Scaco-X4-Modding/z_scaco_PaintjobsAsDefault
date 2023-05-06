@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdscript name="strangi_dp_addthemestoplayerif">
+    <cues>
+        <cue name="strangi_dp_addthemesonload" version="1">
+            <conditions>
+                <check_any>
+                    <event_game_started />
+                    <event_game_loaded />
+                </check_any>
+            </conditions>
+            <delay exact="5s" />
+            <actions>
+                <set_value name="$paintmods_dp" exact="[
+								
+								ware.axesred,
+								ware.axesemerald,
+								ware.axesblue,
+								ware.axesmagnum,
+								ware.axeshardware,
+								ware.axessherman,
+								ware.axesguerilla,
+								ware.axesurban,
+								ware.axesmetro,
+								ware.axestimberland,
+								ware.axesskyline,
+								ware.axesskyline2,
+								
+								ware.axeselectric,
+								ware.axesumber,
+								ware.axespursuit,
+								ware.axesred2,
+								ware.axesrevenant,
+								ware.axeslabyrinth,
+								ware.axesfarout,
+								ware.axesamoeba,
+								ware.axesvirginian,
+								ware.axesvirginian2,
+								
+								ware.axeswraith,
+								ware.axesvelocity,
+								ware.axesstarbound,
+								ware.axesexcess,
+								
+								
+								
+								ware.frust,
+								ware.frustm,
+								ware.fpulse,
+								ware.fpulsepurple,
+								ware.fpulsered,
+								ware.fpulsem,
+								ware.fpulseredm,
+								ware.fpulsepurplem,
+								ware.fmatteblack,
+								ware.fmattered,
+								ware.fmatteorange,
+								ware.fmatteyellow,
+								ware.fmattegreen,
+								ware.fmattepurple,
+								ware.fmatteblue,
+								ware.fdamagedmatteblack,
+								ware.fdamagedmattered,
+								ware.fdamagedmatteorange,
+								ware.fdamagedmatteyellow,
+								ware.fdamagedmattegreen,
+								ware.fdamagedmattepurple,
+								ware.fdamagedmatteblue,
+								ware.fmetallicblack,
+								ware.fmetallicred,
+								ware.fmetallicyellow,
+								ware.fmetallicgreen,
+								ware.fmetallicpurple,
+								ware.fmetallicwhite,
+								ware.fmetallicblue,
+								ware.fstripeswhiteredtint,
+								ware.fstripeswhitered,
+								ware.fstripeswhiteredm,
+								ware.fstripeswhiteredxl,
+								ware.fstripeswhitebluetint,
+								ware.fstripeswhiteblue,
+								ware.fstripeswhitebluem,
+								ware.fstripeswhitebluexl,
+								ware.fstripeswhiteyellowtint,
+								ware.fstripeswhiteyellow,
+								ware.fstripeswhiteyellowm,
+								ware.fstripeswhiteyellowxl,
+								ware.fwireframeyellow,
+								ware.fwireframeyellowm,
+								ware.fwireframewhite,
+								ware.fwireframewhitem,
+								ware.ffamouspainter,
+								
+								
+						
+								ware.paintmod_0002,
+								ware.paintmod_0024,
+								ware.paintmod_0025,
+								ware.paintmod_0026,
+								ware.paintmod_0076,
+
+								ware.paintmod_0003,
+								ware.paintmod_0027,
+								ware.paintmod_0028,
+								ware.paintmod_0029,
+								ware.paintmod_0074,
+
+								ware.paintmod_0007,
+								ware.paintmod_0013,
+								ware.paintmod_0023,
+
+								ware.paintmod_0105,
+
+
+								ware.paintmod_0004,
+								ware.paintmod_0030,
+								ware.paintmod_0031,
+								ware.paintmod_0032,
+								ware.paintmod_0080,
+
+								ware.paintmod_0005,
+								ware.paintmod_0014,
+								ware.paintmod_0033,
+								ware.paintmod_0034,
+								ware.paintmod_0035,
+								ware.paintmod_0075,
+
+								ware.paintmod_0012,
+								ware.paintmod_0045,
+								ware.paintmod_0046,
+								ware.paintmod_0047,
+						
+						
+								ware.paintmod_0009,
+								ware.paintmod_0036,
+								ware.paintmod_0037,
+								ware.paintmod_0038,
+								ware.paintmod_0085,
+
+								ware.paintmod_0010,
+								ware.paintmod_0039,
+								ware.paintmod_0040,
+								ware.paintmod_0041,
+								ware.paintmod_0077,
+								ware.paintmod_0078,
+								ware.paintmod_0111,
+
+								ware.paintmod_0102,
+
+								ware.paintmod_0103,
+								ware.paintmod_0104,
+								ware.paintmod_0112,
+						
+						
+								ware.paintmod_0011,
+								ware.paintmod_0042,
+								ware.paintmod_0043,
+								ware.paintmod_0044,
+						
+							
+								ware.paintmod_0088,
+								ware.paintmod_0095,
+								ware.paintmod_0096,
+
+								ware.paintmod_0089,
+								ware.paintmod_0094,
+
+								ware.paintmod_0090,
+								ware.paintmod_0091,
+								ware.paintmod_0092,
+
+								ware.paintmod_0093,
+
+								ware.paintmod_0071,
+						
+						
+								ware.paintmod_0117,
+								ware.paintmod_0118,
+								ware.paintmod_0119,
+								ware.paintmod_0107,
+
+								ware.paintmod_0122,
+								ware.paintmod_0121,
+								ware.paintmod_0120,
+								ware.paintmod_0113,
+								ware.paintmod_0115,
+								ware.paintmod_0084,
+						
+						
+								ware.paintmod_0123,
+								ware.paintmod_0124,
+								ware.paintmod_0125,
+							
+							
+								ware.paintmod_0126,
+
+								ware.paintmod_0127,
+						
+						
+								ware.paintmod_0191,
+								
+								
+
+								ware.paintmod_0019,
+								ware.paintmod_0056,
+								ware.paintmod_0079,
+								ware.paintmod_0101,
+								
+
+								ware.paintmod_0001,
+								ware.paintmod_0008,
+								ware.paintmod_0015,
+								ware.paintmod_0016,
+								ware.paintmod_0017,
+								ware.paintmod_0018,
+								ware.paintmod_0020,
+								ware.paintmod_0021,
+								ware.paintmod_0022,
+								ware.paintmod_0051,
+								ware.paintmod_0052,
+								ware.paintmod_0053,
+								ware.paintmod_0054,
+								ware.paintmod_0055,
+								ware.paintmod_0057,
+								ware.paintmod_0058,
+								ware.paintmod_0059,
+								ware.paintmod_0060,
+								ware.paintmod_0062,
+								ware.paintmod_0063,
+								ware.paintmod_0064,
+								ware.paintmod_0065,
+								ware.paintmod_0066,
+								ware.paintmod_0067,
+								ware.paintmod_0068,
+								ware.paintmod_0069,
+								ware.paintmod_0070,
+								ware.paintmod_0072,
+								ware.paintmod_0073,
+								ware.paintmod_0081,
+								ware.paintmod_0082,
+								ware.paintmod_0083,
+								ware.paintmod_0086,
+								ware.paintmod_0087,
+								ware.paintmod_0106,
+								ware.paintmod_0108,
+								ware.paintmod_0109,
+								ware.paintmod_0110,
+								ware.paintmod_0114,
+								ware.paintmod_0116,
+								
+								
+								ware.paintmod_0128,
+								ware.paintmod_0129,
+								ware.paintmod_0130,
+								ware.paintmod_0131,
+								ware.paintmod_0132,
+								ware.paintmod_0133,
+								ware.paintmod_0134,
+								ware.paintmod_0135,
+								ware.paintmod_0136,
+								ware.paintmod_0137,
+								ware.paintmod_0138,
+								ware.paintmod_0139,
+								ware.paintmod_0140,
+								ware.paintmod_0141,
+								ware.paintmod_0142,
+								ware.paintmod_0143,
+								ware.paintmod_0144,
+								ware.paintmod_0145,
+								ware.paintmod_0146,
+								ware.paintmod_0147,
+								ware.paintmod_0148,
+								ware.paintmod_0149,
+								ware.paintmod_0150,
+								ware.paintmod_0151,
+								ware.paintmod_0152,
+								ware.paintmod_0153,
+								ware.paintmod_0154,
+								ware.paintmod_0155,
+								ware.paintmod_0156,
+								ware.paintmod_0157,
+								ware.paintmod_0158,
+								ware.paintmod_0159,
+								ware.paintmod_0160,
+								ware.paintmod_0161,
+								ware.paintmod_0162,
+								ware.paintmod_0163,
+								ware.paintmod_0164,
+								ware.paintmod_0165,
+								ware.paintmod_0166,
+								ware.paintmod_0167,
+								ware.paintmod_0168,
+								ware.paintmod_0169,
+								ware.paintmod_0170,
+								ware.paintmod_0171,
+								ware.paintmod_0172,
+								ware.paintmod_0173,
+								ware.paintmod_0174,
+								ware.paintmod_0175,
+								ware.paintmod_0176,
+								ware.paintmod_0177,
+								ware.paintmod_0178,
+								ware.paintmod_0179,
+								ware.paintmod_0180,
+								ware.paintmod_0181,
+								ware.paintmod_0182,
+								ware.paintmod_0183,
+								ware.paintmod_0184,
+								ware.paintmod_0185,
+								ware.paintmod_0186,
+								ware.paintmod_0187,
+								ware.paintmod_0188,
+								ware.paintmod_0189,
+								ware.paintmod_0190
+								
+								
+								
+								
+					]" 
+				/>
+                <add_blueprints wares="$paintmods_dp" />
+                <remove_value name="$paintmods_dp" />
+            </actions>       
+        </cue>
+    </cues>
+</mdscript>
